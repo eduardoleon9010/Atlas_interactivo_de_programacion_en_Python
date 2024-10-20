@@ -1,6 +1,24 @@
 # 📚 Atlas interactivo de programacion en Python 🚀
 
-¡Bienvenido a tu viaje de aprendizaje en el emocionante mundo de Python! Este atlas está diseñado para guiarte a través de los fundamentos y las aplicaciones prácticas del lenguaje, brindándote una experiencia interactiva y enriquecedora. A lo largo de este atlas, encontrarás una variedad de prácticas sugeridas que te ayudarán a solidificar tus conocimientos y habilidades. ¡Prepárate para sumergirte en la programación!
+¡Bienvenido al Atlas Interactivo de Programación en Python! Este es un recurso académico diseñado para guiarte en tu aprendizaje de Python, combinando teoría y práctica de manera lúdica y pedagógica. Aquí encontrarás todo lo necesario para iniciar tu aventura en la programación.
+
+## 🌐 Descripción del proyecto
+
+El Atlas tiene como objetivo proporcionar un enfoque práctico y accesible para aprender Python. A través de secciones organizadas, practicarás desde los fundamentos hasta temas avanzados, todo mientras refuerzas tus habilidades de programación.
+
+## 🖥️ Requisitos del sistema
+
+- Acceso a Internet para utilizar Google Colab.
+- Un navegador web moderno (Chrome, Firefox, etc.) para ejecutar los notebooks.
+
+## 📥 Instalación
+
+Para comenzar, no necesitas instalar nada en tu máquina. Simplemente accede a los notebooks a través de Google Colab. 
+
+## 🛠️ Uso
+
+Algunas secciones del atlas incluyen prácticas sugeridas. Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python.
+
 
 ## 📚 Prácticas sugeridas
 
@@ -30,3 +48,25 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 - [12.1.1 Práctica Sugerida](#)
 
 ## 📜 [Licencia](#)
+
+## 🙌 Código de Conducta
+
+Este proyecto se adhiere a un código de conducta para garantizar un entorno de colaboración positivo. Por favor, revisa el [Código de Conducta](link-al-codigo-de-conducta) para más detalles.
+
+## 💡 Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor sigue las pautas de contribución que se encuentran en [CONTRIBUTING.md](link-al-archivo-contribuciones).
+
+## 🛠️ Cambios
+
+Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG.md](link-al-archivo-cambios).
+
+## 📖 Agradecimientos
+
+Agradecemos a todas las personas que han contribuido a este atlas y a los recursos utilizados para su creación. Tu apoyo es invaluable.
+
+## 📞 Contacto
+
+Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto a través del [correo electronico](mailto:formacionexatech@gmail.com).
+
+## 🔗 [Referencias](#)
