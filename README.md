@@ -47,7 +47,7 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 - [10.2.1 Práctica Sugerida](#)
 - [12.1.1 Práctica Sugerida](#)
 
-## 📜 [Licencia](#)
+## 📜 [Licencia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Licencia.md)
 
 ## 🙌 Código de Conducta
 
