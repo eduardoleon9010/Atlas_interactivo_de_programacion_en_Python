@@ -55,7 +55,7 @@ Este proyecto se adhiere a un código de conducta para garantizar un entorno de 
 
 ## 💡 Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor sigue las pautas de contribución que se encuentran en [CONTRIBUTING.md](link-al-archivo-contribuciones).
+Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor sigue las pautas de contribución que se encuentran en [Contribuciones.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Contribuciones.md)
 
 ## 🛠️ Cambios
 
