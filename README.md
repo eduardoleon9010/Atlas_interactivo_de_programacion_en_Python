@@ -59,7 +59,7 @@ Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por fa
 
 ## 🛠️ Cambios
 
-Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG.md](link-al-archivo-cambios).
+Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Cambios.md).
 
 ## 📖 Agradecimientos
 
