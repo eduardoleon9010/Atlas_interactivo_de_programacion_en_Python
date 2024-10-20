@@ -8,7 +8,7 @@ Cada sección del atlas incluye prácticas sugeridas que te ayudarán a aplicar 
 
 Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente.
 
-### Prácticas por Sección
+### Prácticas por sección
 
 - [2.1.1 Práctica Sugerida](https://colab.research.google.com/drive/1N814avySj1W-XvD9cqiaj3qn9STI4M3N?usp=sharing)
 - [2.3.1 Práctica Sugerida](#)
