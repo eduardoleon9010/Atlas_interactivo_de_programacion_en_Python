@@ -35,7 +35,7 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 - [2.6.3 Práctica sugerida](#)
 - [3.1.1 Práctica sugerida](#)
 - [3.2.1 Práctica sugerida](#)
-- [3.3.1 Práctica sugerida](#)
+- [3.3.1 Práctica sugerida](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Practica%20sugerida%203.1.1.md)
 - [4.1.1 Práctica sugerida](#)
 - [4.1.2 Práctica sugerida](#)
 - [4.3.1 Práctica sugerida](#)
