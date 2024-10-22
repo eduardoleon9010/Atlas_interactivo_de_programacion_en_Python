@@ -1,4 +1,4 @@
-# 📚 Práctica Sugerida 3.1.1: Listas y Tuplas
+# 📚 Práctica sugerida 3.1.1: Listas y Tuplas
 
 ¡Bienvenido! En este espacio, encontrarás el notebook correspondiente a la práctica sugerida 3.1.1 sobre listas y tuplas. Esta práctica te permitirá aplicar lo que has aprendido acerca de estas estructuras de datos fundamentales en Python.
 
