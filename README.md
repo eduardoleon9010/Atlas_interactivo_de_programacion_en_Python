@@ -27,7 +27,7 @@ Cada sección del atlas incluye prácticas sugeridas que te ayudarán a aplicar 
 Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente.
 
 ### Prácticas por tematicas generales
-- [Conceptos basicos](#)
+- [Conceptos basicos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Conceptos_basicos.md)
 - [Estructuras de datos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Estructuras%20de%20datos.md)
 - [Fundamentacion a la programacion en Python](#)
 - [Manejo de datos con Python](#)
