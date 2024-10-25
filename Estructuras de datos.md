@@ -1,6 +1,6 @@
 # 🚀 ¡Bienvenid@! 🌟
 
-Aquí es donde la magia del código se encuentra con tu curiosidad ✨. En este espacio colaborativo, encontrarás el código fuente completo del cuaderno para este módulo, diseñado para que lo explores, modifiques y personalices como desees. ¡Hazlo tuyo! 👨‍💻👩‍💻 Este es un lugar donde todos crecemos juntos, compartimos ideas, dudas, mejoras y cualquier descubrimiento interesante que encuentres en el camino. 🌱
+Aquí es donde la magia del código se encuentra con tu curiosidad ✨. En este espacio colaborativo, encontrarás el código fuente completo del cuaderno para este módulo, diseñado para que lo explores, modifiques y personalices como desees. ¡Hazlo tuyo! 👨‍💻👩‍💻 
 
 ### Accede a los notebooks aquí:
 
