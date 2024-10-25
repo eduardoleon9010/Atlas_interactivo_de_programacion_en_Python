@@ -29,7 +29,7 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 ### Prácticas por tematicas generales
 - [Conceptos basicos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Conceptos_basicos.md)
 - [Estructuras de datos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Estructuras%20de%20datos.md)
-- [Fundamentacion a la programacion en Python](#)
+- [Fundamentacion a la programacion en Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Fundamentacion%20a%20la%20programacion%20en%20Python.md)
 - [Manejo de datos con Python](#)
 - [Recogida de datos APIs y web Sacraping](#)
 
