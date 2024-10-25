@@ -28,7 +28,7 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 
 ### Prácticas por modulo
 - [Conceptos basicos](#)
-- [Estructuras de datos](#)
+- [Estructuras de datos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Estructuras%20de%20datos.md)
 - [Control de flujo](#)
 - [Funciones](#)
 - [Programacion orientada a objetos](#)
