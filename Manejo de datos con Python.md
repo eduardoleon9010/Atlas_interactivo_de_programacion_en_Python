@@ -6,7 +6,7 @@ Aquí comenzaste tu viaje en el **manejo de archivos**, aprendiendo a leer y esc
 
 🔗 **[Accede a los notebooks aquí](#)**
 
-Sumérgete en los recursos de las secciones, donde encontrarás cuadernos con ejercicios y ejemplos prácticos para cada lección. ¡Una oportunidad perfecta para poner en práctica todo lo aprendido!
+Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ejercicios y ejemplos prácticos para cada lección. ¡Una oportunidad perfecta para poner en práctica todo lo aprendido!
 
 ---
 
