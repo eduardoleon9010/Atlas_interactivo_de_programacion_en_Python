@@ -10,6 +10,4 @@ Aquí encontrarás cuadernos con ejemplos y ejercicios prácticos para acompaña
 
 ---
 
-🔗 **[Responde el cuestionario aquí](#)**
-
 🌟 **Si este repositorio te está siendo útil, no olvides darle una ⭐. ¡Juntos aprendemos y avanzamos en el camino de la programación!** 💡🤝
