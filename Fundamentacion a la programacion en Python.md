@@ -6,7 +6,7 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 
 🔗 **[Accede a los cuadernos aquí](#)**
 
-Explora los recursos del módulo en nuestros cuadernos y pon manos a la obra con los ejercicios prácticos. Aquí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
+Explora los recursos de las secciones en nuestros notebooks y pon manos a la obra con los ejercicios prácticos. Aquí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
 
 ---
 
