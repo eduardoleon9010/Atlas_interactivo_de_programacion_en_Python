@@ -26,26 +26,17 @@ Cada sección del atlas incluye prácticas sugeridas que te ayudarán a aplicar 
 
 Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente.
 
-### Prácticas por sección
-
-- [2.1.1 Práctica Sugerida](https://colab.research.google.com/drive/1N814avySj1W-XvD9cqiaj3qn9STI4M3N?usp=sharing)
-- [2.3.1 Práctica sugerida](#)
-- [2.4.2 Práctica sugerida](#)
-- [2.5.1 Práctica sugerida](#)
-- [2.6.3 Práctica sugerida](#)
-- [3.1.1 Práctica sugerida](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Practica%20sugerida%203.1.1.md)
-- [3.2.1 Práctica sugerida](#)
-- [3.3.1 Práctica sugerida](#)
-- [4.1.1 Práctica sugerida](#)
-- [4.1.2 Práctica sugerida](#)
-- [4.3.1 Práctica sugerida](#)
-- [5.1.1 Práctica sugerida](#)
-- [6.1.1 Práctica sugerida](#)
-- [7.2.1 Práctica sugerida](#)
-- [8.3.1 Práctica sugerida](#)
-- [10.1.1 Práctica sugerida](#)
-- [10.2.1 Práctica sugerida](#)
-- [12.1.1 Práctica sugerida](#)
+### Prácticas por modulo
+- [Conceptos basicos](#)
+- [Estructuras de datos](#)
+- [Control de flujo](#)
+- [Funciones](#)
+- [Programacion orientada a objetos](#)
+- [Modulos y paquetes](#)
+- [Menejo de excepciones](#)
+- [Programacion funconal](#)
+- [Manipulacion de archivos](#)
+- [APIs y recoleccion de datos](#)
 
 ## 📜 [Licencia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Licencia.md)
 
