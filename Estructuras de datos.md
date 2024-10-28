@@ -7,7 +7,7 @@ Aquí es donde la magia del código se encuentra con tu curiosidad ✨. En este 
 - 🔗 [Listas](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/8456962071541287889#)
 - 🔗 [Tuplas](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/8456962071541287889#)
 - 🔗 [Guía rápida: Listas y Tuplas](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/8456962071541287889#)
-- 🔗 [Diccionarios](#)
+- 🔗 [Diccionarios](https://colab.research.google.com/drive/1pm0cKTtDTnpCWMTH5ffcL7ofbbF_ndBK?usp=sharing)
 - 🔗 [Conjuntos](#)
 - 🔗 [Guía rápida: Diccionarios y Conjuntos](#)
 
