@@ -4,7 +4,13 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 
 ---
 
-🔗 **[Accede a los cuadernos aquí](#)**
+🔗 **Accede a los cuadernos de practica a continuacion**
+- **[Condiciones y ramificaciones]**(https://colab.research.google.com/drive/1ujEbjuWJyQJ97pp2zJUljQjOYPqjtLok?usp=sharing)
+- **[Bucles](#)**
+- **[Funciones](#)**
+- **[Manejo de excepciones](#)**
+- **[Objetos y clases](#)**
+- **[Analisis de texto](#)**
 
 Explora los recursos de las secciones en nuestros notebooks y pon manos a la obra con los ejercicios prácticos. Aquí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
 
