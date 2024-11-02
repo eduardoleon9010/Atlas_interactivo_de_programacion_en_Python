@@ -11,7 +11,7 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 - **[Manejo de excepciones](#)**
 - **[Objetos y clases](#)**
 - **[Analisis de texto](#)**
-
+- **[Guia rapida de fundamentos de programacion en Python](#)**
 Explora los recursos de las secciones en nuestros notebooks y pon manos a la obra con los ejercicios prácticos. Aquí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
 
 ---
