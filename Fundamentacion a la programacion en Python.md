@@ -6,7 +6,7 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 
 🔗 **Accede a los cuadernos de practica a continuacion**
 - **[Condiciones y ramificaciones](https://colab.research.google.com/drive/1ujEbjuWJyQJ97pp2zJUljQjOYPqjtLok?usp=sharing)**
-- **[Bucles](#)**
+- **[Bucles](https://colab.research.google.com/drive/1NvjrRmykSxqG79QlNk08oackscrCoJe4?usp=sharing)**
 - **[Funciones](#)**
 - **[Manejo de excepciones](#)**
 - **[Objetos y clases](#)**
