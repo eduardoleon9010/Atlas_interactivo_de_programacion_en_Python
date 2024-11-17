@@ -20,7 +20,7 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 🚀 **[Guía rápida de fundamentos de programación en Python](#)**
 
   
-Explora los recursos de las secciones en nuestros notebooks y pon manos a la obra con los ejercicios prácticos. Aquí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
+Al explorar los recursos de las secciones en nuestros notebooks pondras manos a la obra con los ejercicios prácticos. Allí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
 
 ---
 
