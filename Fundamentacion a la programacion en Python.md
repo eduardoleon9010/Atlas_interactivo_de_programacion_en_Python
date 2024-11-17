@@ -9,7 +9,7 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 - **[Bucles](https://colab.research.google.com/drive/1NvjrRmykSxqG79QlNk08oackscrCoJe4?usp=sharing)**
 - **[Funciones](https://colab.research.google.com/drive/1Z92_JmvdIJpcllEI2ta-yCuDbSwFr0e-?usp=sharing)**
 - **[Manejo de excepciones](https://colab.research.google.com/drive/1fQFvQDKtKwbmBapneaTr-CLHhA7J9mHT?usp=sharing)**
-- **[Calses y objetos](https://colab.research.google.com/drive/1sGc71TLPRO4qgmxxJSvoA7aDGaF8Qh5F?usp=sharing)**
+- **[Clases y objetos](https://colab.research.google.com/drive/1sGc71TLPRO4qgmxxJSvoA7aDGaF8Qh5F?usp=sharing)**
 - **[Analisis de texto](#)**
 - **[Guia rapida de fundamentos de programacion en Python](#)**
   
