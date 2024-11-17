@@ -16,7 +16,7 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 
 🏛️ **[Clases y objetos](https://colab.research.google.com/drive/1sGc71TLPRO4qgmxxJSvoA7aDGaF8Qh5F?usp=sharing)**
 
-📝 **[Análisis de texto](#)**
+📝 **[Análisis de texto](https://colab.research.google.com/drive/1qkfwPgoPL0eUvAYrEqb1Nl--Fo6g-ZWJ?usp=sharing)**
 
 🚀 **[Guía rápida de fundamentos de programación en Python](#)**
 
