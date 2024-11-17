@@ -6,4 +6,4 @@ Este trabajo está licenciado bajo la [Licencia Creative Commons Atribución 4.0
 
 Si utilizas este atlas, por favor cita la fuente de la siguiente manera:
 
-*Leon, E. (2024). Título del Atlas Interactivo de Programación en Python. Editorial (si aplica). ISBN (si aplica).*
+*Leon, E. (2024). Atlas Interactivo de Programación en Python. Eliva press. ISBN .*
