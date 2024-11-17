@@ -1,6 +1,6 @@
 📚 **Atlas Interactivo de Programación en Python** 🚀
 
-¡Bienvenido al **repositorio del Atlas Interactivo de Programación en Python**! Aquí encontrarás una colección de recursos y cuadernos de práctica para aplicar los conceptos teóricos presentados en el libro. Este atlas es un recurso académico pensado para guiarte de manera efectiva en tu aprendizaje de Python, combinando teoría y ejercicios prácticos para una experiencia pedagógica y divertida.
+¡Bienvenido al **repositorio del Atlas Interactivo de Programación en Python**! Aquí encontrarás una colección de recursos y cuadernos de práctica para aplicar los conceptos teóricos presentados en el atlas. Este repositorio es un recurso académico pensado para guiarte de manera efectiva en tu aprendizaje de Python, combinando teoría y ejercicios prácticos para una experiencia pedagógica y divertida.
 
 ### 🌐 Objetivo
 El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprender Python. A través de secciones organizadas por temas, tendrás la oportunidad de poner en práctica tus conocimientos, empezando desde los conceptos básicos hasta temas más avanzados, mientras refuerzas tus habilidades de programación.
@@ -23,9 +23,9 @@ Algunas secciones del atlas incluyen prácticas sugeridas. Al trabajar en estas 
 
 Cada sección del atlas incluye prácticas sugeridas que te ayudarán a aplicar lo que has aprendido. Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python. 
 
-Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente.
+Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente:
 
-### 🚀 Accede a las prácticas por temáticas generales:
+---
 
 📖 **[Conceptos básicos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Conceptos_basicos.md)**  
   Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
