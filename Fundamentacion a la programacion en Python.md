@@ -4,14 +4,16 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 
 ---
 
-🔗 **Accede a los cuadernos de practica a continuacion**
-- **[Condiciones y ramificaciones](https://colab.research.google.com/drive/1ujEbjuWJyQJ97pp2zJUljQjOYPqjtLok?usp=sharing)**
-- **[Bucles](https://colab.research.google.com/drive/1NvjrRmykSxqG79QlNk08oackscrCoJe4?usp=sharing)**
-- **[Funciones](https://colab.research.google.com/drive/1Z92_JmvdIJpcllEI2ta-yCuDbSwFr0e-?usp=sharing)**
-- **[Manejo de excepciones](https://colab.research.google.com/drive/1fQFvQDKtKwbmBapneaTr-CLHhA7J9mHT?usp=sharing)**
-- **[Clases y objetos](https://colab.research.google.com/drive/1sGc71TLPRO4qgmxxJSvoA7aDGaF8Qh5F?usp=sharing)**
-- **[Analisis de texto](#)**
-- **[Guia rapida de fundamentos de programacion en Python](#)**
+🔗 **Accede a los cuadernos de práctica a continuación:**
+
+🛤️ **[Condiciones y ramificaciones](https://colab.research.google.com/drive/1ujEbjuWJyQJ97pp2zJUljQjOYPqjtLok?usp=sharing)**
+🔄 **[Bucles](https://colab.research.google.com/drive/1NvjrRmykSxqG79QlNk08oackscrCoJe4?usp=sharing)**
+🔧 **[Funciones](https://colab.research.google.com/drive/1Z92_JmvdIJpcllEI2ta-yCuDbSwFr0e-?usp=sharing)**
+⚠️ **[Manejo de excepciones](https://colab.research.google.com/drive/1fQFvQDKtKwbmBapneaTr-CLHhA7J9mHT?usp=sharing)**
+🏛️ **[Clases y objetos](https://colab.research.google.com/drive/1sGc71TLPRO4qgmxxJSvoA7aDGaF8Qh5F?usp=sharing)**
+📝 **[Análisis de texto](#)**
+🚀 **[Guía rápida de fundamentos de programación en Python](#)**
+
   
 Explora los recursos de las secciones en nuestros notebooks y pon manos a la obra con los ejercicios prácticos. Aquí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
 
