@@ -7,13 +7,19 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 🔗 **Accede a los notebooks a continuación:**
 
-- 📂 **[Lectura de archivos](#)**
-- ✏️ **[Escritura de archivos](#)**
-- 🔍 **[Selección de datos](#)**
-- 📥 **[Carga de datos](#)**
-- 🔢 **[Numpy unidimensional](#)**
-- 🧮 **[Numpy bidimensional](#)**
-- 🚀 **[Guía rápida de trabajo con datos](#)**
+📂 **[Lectura de archivos](#)**
+
+✏️ **[Escritura de archivos](#)**
+
+🔍 **[Selección de datos](#)**
+
+📥 **[Carga de datos](#)**
+
+🔢 **[Numpy unidimensional](#)**
+
+🧮 **[Numpy bidimensional](#)**
+
+🚀 **[Guía rápida de trabajo con datos](#)**
 
 ---
 
