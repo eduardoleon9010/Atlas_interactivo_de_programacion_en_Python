@@ -2,11 +2,23 @@
 
 Aquí exploraste herramientas clave para obtener datos de manera directa y eficiente. Aprendiste cómo las **APIs** y el **web scraping** te permiten acceder a información valiosa desde múltiples fuentes. 🕸️📥 Además, te adentraste en el manejo de formatos de archivos diversos para mejorar tus habilidades en recolección y análisis de datos. 📊
 
+Aquí encontrarás cuadernos con ejemplos y ejercicios prácticos para acompañarte en cada seccion. ¡Sumérgete en la práctica y lleva tus habilidades al siguiente nivel!
+
 ---
 
-🔗 **[Accede a los cuadernos aquí](#)**
+🔗 **Accede a los cuadernos a continuacion:**
 
-Aquí encontrarás cuadernos con ejemplos y ejercicios prácticos para acompañarte en cada seccion. ¡Sumérgete en la práctica y lleva tus habilidades al siguiente nivel!
+🌐 **[Introducción a la API](#)**
+
+🔍 **[Accediendo a API REST](#)**
+
+📡 **[API 1](#)**
+
+🕸️ **[Web Scraping](#)**
+
+📂 **[Trabajo con diversidad de archivos](#)**
+
+🚀 **[Guía rápida de API](#)**
 
 ---
 
