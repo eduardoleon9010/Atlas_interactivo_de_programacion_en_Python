@@ -18,7 +18,7 @@ Aquí explorarás conceptos clave como las **condiciones y la ramificación**, e
 
 📝 **[Análisis de texto](https://colab.research.google.com/drive/1qkfwPgoPL0eUvAYrEqb1Nl--Fo6g-ZWJ?usp=sharing)**
 
-🚀 **[Guía rápida de fundamentos de programación en Python](https://drive.google.com/file/d/16fiV69Ix-O8NJGQypq5jKJFjwI2J5SZ2/view?usp=sharing)**
+🚀 **[Guía rápida de fundamentos de programación en Python](https://drive.google.com/file/d/1fKUod63WWu8rbR-crvRXs2ll0EXSplbx/view?usp=sharing)**
 
   
 Al explorar los recursos de las secciones en nuestros notebooks pondras manos a la obra con los ejercicios prácticos. Allí encontrarás todos los materiales que necesitas para seguir cada lección y desarrollar tus habilidades. 
