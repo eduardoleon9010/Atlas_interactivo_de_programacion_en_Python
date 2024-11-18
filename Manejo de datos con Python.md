@@ -12,7 +12,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 ✏️ **[Escritura de archivos](https://colab.research.google.com/drive/1TM80345R1DQwTpil5YXFg5QUBfzTlpgQ?usp=sharing)**
 
-🔍 **[Selección de datos](#)**
+🔍 **[Pandas](#)**
 
 📥 **[Carga de datos](#)**
 
