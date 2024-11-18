@@ -8,7 +8,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 🔗 **Accede a los notebooks a continuación:**
 
-📂 **[Lectura de archivos](#)**
+📂 **[Lectura de archivos](https://colab.research.google.com/drive/1IWg5MM-p_DP5dn3nU5gr9ne1_GgFEI4U?usp=sharing)**
 
 ✏️ **[Escritura de archivos](#)**
 
