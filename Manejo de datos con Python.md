@@ -10,7 +10,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 📂 **[Lectura de archivos](https://colab.research.google.com/drive/1IWg5MM-p_DP5dn3nU5gr9ne1_GgFEI4U?usp=sharing)**
 
-✏️ **[Escritura de archivos](#)**
+✏️ **[Escritura de archivos](https://colab.research.google.com/drive/1TM80345R1DQwTpil5YXFg5QUBfzTlpgQ?usp=sharing)**
 
 🔍 **[Selección de datos](#)**
 
