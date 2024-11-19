@@ -16,7 +16,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 📥 **[Carga de datos](https://colab.research.google.com/drive/1YbcKODCOj1Zt_01Sdb1SDvYTiO21RBOz?usp=sharing)**
 
-🔢 **[Numpy unidimensional](#)**
+🔢 **[Numpy unidimensional](https://colab.research.google.com/drive/1WCsjlxS9gdYjJATDsyhAHEevzMID5jXE?usp=sharing)**
 
 🧮 **[Numpy bidimensional](#)**
 
