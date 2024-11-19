@@ -14,7 +14,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 🔍 **[Uso de Pandas](https://colab.research.google.com/drive/1ARQa8UEklbZheFrsNUEgkvUk7mv2tAIs?usp=sharing)**
 
-📥 **[Carga de datos](#)**
+📥 **[Carga de datos](https://colab.research.google.com/drive/1YbcKODCOj1Zt_01Sdb1SDvYTiO21RBOz?usp=sharing)**
 
 🔢 **[Numpy unidimensional](#)**
 
