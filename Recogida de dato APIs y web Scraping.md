@@ -10,7 +10,7 @@ Aquí encontrarás cuadernos con ejemplos y ejercicios prácticos para acompaña
 
 🌐 **[Introducción a la API](https://colab.research.google.com/drive/124kHu4nw_22oFsMLD3hUEPzwmqfk1rJF?usp=sharing)**
 
-🔍 **[Accediendo a API REST](#)**
+🔍 **[Accediendo a API REST](https://colab.research.google.com/drive/1v7IDlnkSX9ubzxCeuDJ6q5E38r6tnOgn?usp=sharing)**
 
 📡 **[API 1](#)**
 
