@@ -18,7 +18,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 🔢 **[Numpy unidimensional](https://colab.research.google.com/drive/1WCsjlxS9gdYjJATDsyhAHEevzMID5jXE?usp=sharing)**
 
-🧮 **[Numpy bidimensional](#)**
+🧮 **[Numpy bidimensional](https://colab.research.google.com/drive/1zMZ4ss2GuXee_kDLLCQJtKfir2erOwgp?usp=sharing)**
 
 🚀 **[Guía rápida de trabajo con datos](#)**
 
