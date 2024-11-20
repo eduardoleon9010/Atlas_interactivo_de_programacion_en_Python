@@ -22,6 +22,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 🚀 **[Guía rápida para principiantes en Numpy](https://drive.google.com/file/d/1y_feSHIvWjBA0nqgXR-fgpnEJd9uw3GT/view?usp=sharing)**
 
+📊**[Guía rápida manejode datos]()**
 ---
 
 
