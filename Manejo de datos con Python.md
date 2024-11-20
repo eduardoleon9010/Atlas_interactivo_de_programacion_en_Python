@@ -20,7 +20,7 @@ Sumérgete en los recursos de las secciones, donde encontrarás notebooks con ej
 
 🧮 **[Numpy bidimensional](https://colab.research.google.com/drive/1zMZ4ss2GuXee_kDLLCQJtKfir2erOwgp?usp=sharing)**
 
-🚀 **[Guía rápida de trabajo con datos](#)**
+🚀 **[Guía rápida para principiantes en Numpy](https://drive.google.com/file/d/1y_feSHIvWjBA0nqgXR-fgpnEJd9uw3GT/view?usp=sharing)**
 
 ---
 
