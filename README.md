@@ -41,6 +41,7 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 
 🌐 **[Recogida de datos: APIs y web Scraping](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Recogida%20de%20dato%20APIs%20y%20web%20Scraping.md)**  
   Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos.
+🚀🐍 **[Proyecto de final: Potencia tus Habilidades en Python]()**
 
 ---
 
