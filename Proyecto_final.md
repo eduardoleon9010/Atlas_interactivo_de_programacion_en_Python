@@ -5,7 +5,7 @@ En este proyecto, aplicarás todos los conocimientos que has adquirido a lo larg
 Este proyecto te permitirá consolidar conceptos clave como la manipulación de datos, la extracción de información relevante y el análisis eficiente. Además, pondrás a prueba tus habilidades para resolver problemas del mundo real. 💡 ¡Prepárate para enfrentarte a un desafío que combinará creatividad, lógica y análisis de datos!
 
 ### ¿Estás listo? 🔥
-Puedes acceder al notebook de **Google Colab** para realizar este proyecto en el siguiente enlace: [Notebook del Proyecto](#).
+Puedes acceder al notebook de **Google Colab** para realizar este proyecto en el siguiente enlace: [Notebook del Proyecto final](#).
 
 Saca el máximo provecho de esta práctica, explora tus límites y diviértete mientras aprendes. Cada paso que completes te acercará más a dominar Python y convertirte en un experto. 💪✨
 
