@@ -8,7 +8,7 @@ Aquí encontrarás cuadernos con ejemplos y ejercicios prácticos para acompaña
 
 🔗 **Accede a los cuadernos a continuacion:**
 
-🌐 **[Introducción a la API](#)**
+🌐 **[Introducción a la API](https://colab.research.google.com/drive/124kHu4nw_22oFsMLD3hUEPzwmqfk1rJF?usp=sharing)**
 
 🔍 **[Accediendo a API REST](#)**
 
