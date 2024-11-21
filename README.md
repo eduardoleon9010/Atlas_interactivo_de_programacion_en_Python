@@ -1,25 +1,25 @@
-📚 **Atlas Interactivo de Programación en Python** 🚀
+#📚 **Atlas Interactivo de Programación en Python** 🚀
 
 ¡Bienvenido al **repositorio del Atlas Interactivo de Programación en Python**! Aquí encontrarás una colección de recursos y cuadernos de práctica para aplicar los conceptos teóricos presentados en el atlas. Este repositorio es un recurso académico pensado para guiarte de manera efectiva en tu aprendizaje de Python, combinando teoría y ejercicios prácticos para una experiencia pedagógica y divertida.
 
 ### 🌐 Objetivo
 El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprender Python. A través de secciones organizadas por temas, tendrás la oportunidad de poner en práctica tus conocimientos, empezando desde los conceptos básicos hasta temas más avanzados, mientras refuerzas tus habilidades de programación.
 
-## 🖥️ Requisitos del sistema
+### 🖥️ Requisitos del sistema
 
 - Acceso a Internet para utilizar Google Colab.
 - Un navegador web moderno (Chrome, Firefox, etc.) para ejecutar los notebooks.
 
-## 📥 Instalación
+### 📥 Instalación
 
 Para comenzar, no necesitas instalar nada en tu máquina. Simplemente accede a los notebooks a través de Google Colab. 
 
-## 🛠️ Uso
+### 🛠️ Uso
 
 Algunas secciones del atlas incluyen prácticas sugeridas. Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python.
 
 
-## 📚 Prácticas sugeridas
+### 📚 Prácticas sugeridas
 
 Cada sección del atlas incluye prácticas sugeridas que te ayudarán a aplicar lo que has aprendido. Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python. 
 
