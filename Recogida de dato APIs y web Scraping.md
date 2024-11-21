@@ -14,7 +14,7 @@ Aquí encontrarás cuadernos con ejemplos y ejercicios prácticos para acompaña
 
 📡 **[API 1](https://colab.research.google.com/drive/13bcvyO7JpWNPpHOPEzIr46p5J3Kzk5_B?usp=sharing)**
 
-🕸️ **[Web Scraping](#)**
+🕸️ **[Web Scraping](https://colab.research.google.com/drive/1bpwYQRbSMhDo7dfygvnv5QFBAUH9FJtZ?usp=sharing)**
 
 📂 **[Trabajo con diversidad de archivos](#)**
 
