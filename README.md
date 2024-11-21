@@ -1,4 +1,4 @@
-#📚 **Atlas Interactivo de Programación en Python** 🚀
+# 📚 **Atlas Interactivo de Programación en Python** 🚀
 
 ¡Bienvenido al **repositorio del Atlas Interactivo de Programación en Python**! Aquí encontrarás una colección de recursos y cuadernos de práctica para aplicar los conceptos teóricos presentados en el atlas. Este repositorio es un recurso académico pensado para guiarte de manera efectiva en tu aprendizaje de Python, combinando teoría y ejercicios prácticos para una experiencia pedagógica y divertida.
 
