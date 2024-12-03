@@ -1,63 +1,32 @@
-document.addEventListener('DOMContentLoaded', function() {
-  // Menú desplegable
-  const menuItems = document.querySelectorAll('nav ul li');
+// Si quieres que el menú sea desplegable con un clic, puedes añadir este script
+// Este código se asegura de que el submenú solo se despliegue cuando el usuario hace clic en la opción del menú.
+
+document.addEventListener("DOMContentLoaded", function() {
+  const menuItems = document.querySelectorAll('.menu > li');
 
   menuItems.forEach(item => {
-    item.addEventListener('click', function(event) {
+    item.addEventListener('click', function(e) {
+      // Cerramos cualquier otro submenú abierto
+      menuItems.forEach(innerItem => {
+        if (innerItem !== item) {
+          innerItem.querySelector('.submenu').style.display = 'none';
+        }
+      });
+
       const submenu = item.querySelector('.submenu');
-      
-      // Alterna la visibilidad del submenú
-      if (submenu.style.display === 'block') {
-        submenu.style.display = 'none';
-      } else {
-        submenu.style.display = 'block';
+      if (submenu) {
+        // Toggle: Si está visible, lo ocultamos; si está oculto, lo mostramos
+        submenu.style.display = submenu.style.display === 'block' ? 'none' : 'block';
       }
 
-      // Evita que el clic se propague al resto del documento
-      event.stopPropagation();
+      e.stopPropagation(); // Evita que se propague el clic
     });
   });
 
-  // Si se hace clic fuera del menú, ocultamos los submenús
+  // Cierra los submenús si el usuario hace clic fuera
   document.addEventListener('click', function() {
-    document.querySelectorAll('.submenu').forEach(submenu => {
-      submenu.style.display = 'none';
+    menuItems.forEach(item => {
+      item.querySelector('.submenu').style.display = 'none';
     });
   });
-
-  // Mensaje de bienvenida interactivo
-  const bienvenida = document.querySelector(".bienvenida");
-  if (bienvenida) {
-    bienvenida.innerHTML = "¡Explora el Atlas Interactivo para aprender Python!";
-  }
-
-  // Cambiar entre modo claro y oscuro
-  const themeToggle = document.querySelector("#theme-toggle");
-  themeToggle.addEventListener("click", function() {
-    document.body.classList.toggle("dark-mode");
-    const currentMode = document.body.classList.contains("dark-mode") ? "oscuro" : "claro";
-    localStorage.setItem("theme", currentMode);
-  });
-
-  // Configuración inicial para el tema (modo claro/oscuro)
-  const savedTheme = localStorage.getItem("theme");
-  if (savedTheme && savedTheme === "oscuro") {
-    document.body.classList.add("dark-mode");
-  }
-
-  // Efecto de desplazamiento suave para enlaces
-  const enlaces = document.querySelectorAll('a[href^="#"]');
-  enlaces.forEach(function(enlace) {
-    enlace.addEventListener("click", function(event) {
-      event.preventDefault();
-      const targetId = this.getAttribute("href").substring(1);
-      const targetElement = document.getElementById(targetId);
-
-      window.scrollTo({
-        top: targetElement.offsetTop - 50, // Ajuste para espacio superior
-        behavior: "smooth"
-      });
-    });
-  });
-
 });
