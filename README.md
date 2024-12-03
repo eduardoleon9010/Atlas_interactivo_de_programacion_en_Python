@@ -74,6 +74,6 @@ Agradecemos a todas las personas que han contribuido a este atlas y a los recurs
 
 Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto a través del [correo electronico](mailto:formacionexatech@gmail.com).
 
-### 🔗 [Referencias](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/BIBLIOGRAFIA.md)
+### 🔗 [Bibliografia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/BIBLIOGRAFIA.md)
 
 ### 📜 [Licencia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/Licencia.md)
