@@ -69,24 +69,54 @@ header h1 a {
   text-transform: uppercase; /* Para dar un toque más destacado al título */
 }
 
+/* Estilos para el menú principal */
 nav ul {
-  display: flex;
   list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
 }
 
 nav ul li {
-  margin-left: 2rem;
+  position: relative;
+  margin: 0 20px;
 }
 
 nav ul li a {
-  color: white; /* Asegura que los enlaces sean blancos */
-  font-size: 1rem;
-  text-transform: uppercase; /* Opcional, para un estilo más de libro */
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding: 10px 15px;
+  display: block;
 }
 
-nav ul li a:hover {
-  color: #FFCC00; /* Color al pasar el ratón, puedes ajustarlo */
+/* Estilo para el submenú */
+nav ul li .submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #007BFF;
+  padding: 0;
+  list-style: none;
+  min-width: 200px;
 }
+
+nav ul li:hover .submenu {
+  display: block;
+}
+
+nav ul li .submenu li a {
+  color: white;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+nav ul li .submenu li a:hover {
+  background-color: #0056b3;
+}
+
 
 main.container {
   padding: 2rem;
