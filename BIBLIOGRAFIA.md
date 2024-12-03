@@ -2,6 +2,7 @@
 
 A continuación se presenta la Bibliografia utilizada en la elaboración del Atlas Interactivo de Programación en Python. Estas obras son fundamentales para profundizar en el aprendizaje y la aplicación de Python en diferentes campos:
 
+
 1. McKinney, W. (2018). *Python for data analysis: Data wrangling with pandas, NumPy, and IPython* (2nd ed.). O'Reilly Media.
 2. Albon, C. (2018). *Machine learning with Python: A practical approach*. Kogan Page.
 3. VanderPlas, J. (2016). *Python data science handbook: Essential tools for working with data*. O'Reilly Media.
