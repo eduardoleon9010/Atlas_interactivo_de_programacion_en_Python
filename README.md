@@ -3,7 +3,9 @@
 ## 🌟 **Explora la Zona Interactiva del Atlas Interactivo de Programación en Python**  
 Sumérgete en la **[Zona Interactiva](https://sites.google.com/view/atlasinteractivodeprogramacion/inicio)**, el complemento digital del atlas físico. Este espacio ha sido diseñado para enriquecer tu aprendizaje con contenido organizado, ejercicios prácticos e interactivos, y recursos accesibles. Desde conceptos básicos hasta aplicaciones avanzadas, la Zona Interactiva es tu aliada perfecta para llevar tus habilidades en Python al siguiente nivel. 🚀
 
-¡Bienvenido al **repositorio del Atlas Interactivo de Programación en Python**! Aquí encontrarás una colección de recursos y cuadernos de práctica para aplicar los conceptos teóricos presentados en el atlas. Este repositorio es un recurso académico pensado para guiarte de manera efectiva en tu aprendizaje de Python, combinando teoría y ejercicios prácticos para una experiencia pedagógica y divertida.
+## ✨ **Explora este repositorio del Atlas Interactivo de Programación en Python**  
+Bienvenido al lugar donde la teoría y la práctica se unen. En este repositorio, encontrarás una amplia colección de recursos y cuadernos de práctica diseñados para aplicar los conceptos teóricos del atlas. Con un enfoque académico y pedagógico, este espacio te guiará de manera efectiva en tu aprendizaje de Python, combinando conocimiento técnico y actividades prácticas para una experiencia dinámica y enriquecedora. 🚀
+
 
 ## 🌐 Objetivo
 El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprender Python. A través de secciones organizadas por temas, tendrás la oportunidad de poner en práctica tus conocimientos, empezando desde los conceptos básicos hasta temas más avanzados, mientras refuerzas tus habilidades de programación.
