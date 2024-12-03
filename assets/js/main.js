@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
   menuItems.forEach(item => {
     item.addEventListener('click', function(event) {
       const submenu = item.querySelector('.submenu');
+      // Alterna la visibilidad del submenú
+      submenu.style.display = (submenu.style.display === 'block') ? 'none' : '
       
       // Si el submenú está visible, lo ocultamos; si no lo está, lo mostramos
       if (submenu.style.display === 'block') {
