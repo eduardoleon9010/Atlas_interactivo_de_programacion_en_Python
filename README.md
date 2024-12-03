@@ -49,23 +49,18 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 🌟 ¡Prepárate para sumergirte en una aventura de aprendizaje interactiva y divertida!
 
 ### 🙌 Código de conducta
-
 Este proyecto se adhiere a un código de conducta para garantizar un entorno de colaboración positivo. Por favor, revisa el [Código de conducta](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Codigo_de_conducta.md) para más detalles.
 
 ### 💡 Contribuciones
-
 Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor sigue las pautas de contribución que se encuentran en [Contribuciones.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Contribuciones.md)
 
 ### 🛠️ Cambios
-
 Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Cambios.md).
 
 ### 📖 Agradecimientos
-
 Agradecemos a todas las personas que han contribuido a este atlas y a los recursos utilizados para su creación. Su apoyo es invaluable.
 
 ### 📞 Contacto
-
 Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto a través del [correo electronico](mailto:formacionexatech@gmail.com).
 
 ### 🔗 [Referencias](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/BIBLIOGRAFIA.md)
