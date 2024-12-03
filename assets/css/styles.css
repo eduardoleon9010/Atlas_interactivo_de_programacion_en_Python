@@ -1,9 +1,9 @@
-/* Estilos generales */
+/* Estilos básicos para el diseño */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
   margin: 0;
   padding: 0;
+  background-color: #f5f5f5;
 }
 
 header {
@@ -12,94 +12,70 @@ header {
   padding: 20px 0;
 }
 
-header .container {
-  max-width: 1200px;
+.container {
+  width: 80%;
   margin: 0 auto;
-  padding: 0 20px;
 }
 
-h1.logo a {
-  color: white;
+h1 a {
   text-decoration: none;
-  font-size: 2rem;
-}
-
-nav {
-  margin-top: 10px;
+  color: white;
+  font-size: 24px;
 }
 
 nav ul.menu {
-  display: flex;
-  justify-content: space-around;
-  padding: 0;
   list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
 }
 
-nav ul.menu li {
+nav ul.menu > li {
   position: relative;
+  margin-right: 20px;
 }
 
-nav ul.menu li a {
+nav ul.menu > li > a {
   color: white;
   text-decoration: none;
-  padding: 10px 20px;
-  display: block;
+  font-size: 18px;
 }
 
-/* Submenú */
-nav ul.menu li .submenu {
+nav ul.menu .submenu {
   display: none;
   position: absolute;
   top: 100%;
   left: 0;
   background-color: #444;
-  padding: 0;
-  list-style: none;
-  min-width: 250px;
-  opacity: 0; /* Inicio invisible */
-  visibility: hidden; /* Inicio oculto */
-  transition: opacity 0.3s, visibility 0s linear 0.3s; /* Suavizar la transición */
-}
-
-nav ul.menu li:hover .submenu {
-  display: block;
-  opacity: 1; /* Visible */
-  visibility: visible; /* Visible */
-  transition: opacity 0.3s;
-}
-
-nav ul.menu li .submenu li a {
-  color: white;
   padding: 10px;
+  border-radius: 4px;
+  min-width: 200px;
 }
 
-nav ul.menu li .submenu li a:hover {
-  background-color: #555;
+nav ul.menu > li:hover .submenu {
+  display: block;
 }
 
-/* Sección de portada */
-#portada {
-  text-align: center;
-  margin: 20px 0;
+nav ul.menu .submenu li {
+  margin: 5px 0;
+}
+
+nav ul.menu .submenu a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
 }
 
 #portada img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
+  display: block;
 }
 
-/* Sección de contenido principal */
 main {
-  max-width: 1200px;
-  margin: 20px auto;
-  padding: 0 20px;
+  padding: 20px;
 }
 
-main section {
-  margin-bottom: 20px;
-}
-
-/* Footer */
 footer {
   background-color: #333;
   color: white;
@@ -107,14 +83,6 @@ footer {
   padding: 10px;
 }
 
-/* Responsividad: Menú en dispositivos pequeños */
-@media (max-width: 768px) {
-  nav ul.menu {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  nav ul.menu li .submenu {
-    min-width: 100%; /* El submenú ocupará todo el ancho disponible en pantallas pequeñas */
-  }
+footer p {
+  margin: 0;
 }
