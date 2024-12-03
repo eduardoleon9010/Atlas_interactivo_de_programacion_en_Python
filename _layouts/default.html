@@ -1,120 +1,88 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Atlas Interactivo de Programación en Python</title>
-  <link rel="stylesheet" href="styles.css"> <!-- Asegúrate de que el archivo de estilos está en el lugar correcto -->
-</head>
-<body>
-  <!-- Barra de navegación -->
-  <header>
-    <div class="container">
-      <h1 class="logo">
-        <a href="/">Atlas Interactivo de Programación en Python</a>
-      </h1>
-      <nav>
-        <ul class="menu">
-          <li><a href="#">📖 Conceptos básicos</a>
-            <ul class="submenu">
-              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/conceptos_basicos.md">Inicia tu recorrido aprendiendo los fundamentos esenciales de Python</a></li>
-            </ul>
-          </li>
-          <li><a href="#">🗂️ Estructuras de datos</a>
-            <ul class="submenu">
-              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/estructuras_de_datos.md">Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información</a></li>
-            </ul>
-          </li>
-          <li><a href="#">🐍 Fundamentación a la programación en Python</a>
-            <ul class="submenu">
-              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/fundamentos_de_programacion.md">Fortalece tus conocimientos en los principios básicos de la programación con Python</a></li>
-            </ul>
-          </li>
-          <li><a href="#">📊 Manejo de datos con Python</a>
-            <ul class="submenu">
-              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/manejo_de_datos_con_python.md">Explora cómo manipular y analizar datos utilizando Python</a></li>
-            </ul>
-          </li>
-          <li><a href="#">🌐 Recogida de datos: APIs y web Scraping</a>
-            <ul class="submenu">
-              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/recogida_de_datos_APIs_y_webscraping.md">Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos</a></li>
-            </ul>
-          </li>
-          <li><a href="#">🚀🐍 Proyecto Final</a>
-            <ul class="submenu">
-              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/proyecto_final.md">Potencia tus habilidades en Python</a></li>
-            </ul>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+/* Estilos básicos para el diseño */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
 
-  <!-- Imagen principal de la portada -->
-  <section id="portada">
-    <img src="assets/img/img.png" alt="Portada Atlas de Programación en Python">
-  </section>
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+}
 
-  <!-- Contenido principal -->
-  <main>
-    <section id="bienvenida">
-      <h2>¡Bienvenido al Atlas Interactivo de Programación en Python!</h2>
-      <p>Este repositorio es un recurso académico pensado para guiarte de manera efectiva en tu aprendizaje de Python, combinando teoría y ejercicios prácticos para una experiencia pedagógica y divertida.</p>
-    </section>
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
 
-    <section id="objetivos">
-      <h2>🌐 Objetivo</h2>
-      <p>El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprender Python. A través de secciones organizadas por temas, tendrás la oportunidad de poner en práctica tus conocimientos.</p>
-    </section>
+h1 a {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+}
 
-    <section id="requisitos">
-      <h2>🖥️ Requisitos del sistema</h2>
-      <ul>
-        <li>Acceso a Internet para utilizar Google Colab.</li>
-        <li>Un navegador web moderno (Chrome, Firefox, etc.) para ejecutar los notebooks.</li>
-      </ul>
-    </section>
+nav ul.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
 
-    <section id="instalacion">
-      <h2>📥 Instalación</h2>
-      <p>No es necesario instalar nada en tu máquina. Solo accede a los notebooks a través de Google Colab.</p>
-    </section>
+nav ul.menu > li {
+  position: relative;
+  margin-right: 20px;
+}
 
-    <section id="uso">
-      <h2>🛠️ Uso</h2>
-      <p>Algunas secciones incluyen prácticas sugeridas. Trabaja en ellas para reforzar tus habilidades y ganar confianza en tu capacidad para programar en Python.</p>
-    </section>
+nav ul.menu > li > a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
 
-    <section id="practicas">
-      <h2>📚 Prácticas sugeridas</h2>
-      <p>Cada sección del atlas incluye prácticas que te ayudarán a aplicar lo aprendido. ¡No dudes en empezar ya!</p>
-    </section>
+nav ul.menu .submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #444;
+  padding: 10px;
+  border-radius: 4px;
+  min-width: 200px;
+}
 
-    <section id="contacto">
-      <h2>📞 Contacto</h2>
-      <p>Si tienes preguntas o sugerencias, no dudes en contactarme por correo electrónico o en GitHub.</p>
-    </section>
+nav ul.menu > li:hover .submenu {
+  display: block;
+}
 
-    <section id="codigo-de-conducta">
-      <h2>🙌 Código de conducta</h2>
-      <p>Este proyecto se adhiere a un código de conducta para mantener un entorno de colaboración positivo.</p>
-    </section>
+nav ul.menu .submenu li {
+  margin: 5px 0;
+}
 
-    <section id="agradecimientos">
-      <h2>📖 Agradecimientos</h2>
-      <p>Agradecemos a todos los colaboradores que han hecho posible este atlas.</p>
-    </section>
+nav ul.menu .submenu a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
 
-    <section id="licencia">
-      <h2>📜 Licencia</h2>
-      <p>© 2024 Atlas Interactivo de Programación en Python</p>
-    </section>
-  </main>
+#portada img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 
-  <footer>
-    <p>Contacto | Licencia</p>
-  </footer>
+main {
+  padding: 20px;
+}
 
-  <script src="main.js"></script> <!-- Asegúrate de que el archivo JS esté correctamente enlazado -->
-</body>
-</html>
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+footer p {
+  margin: 0;
+}
