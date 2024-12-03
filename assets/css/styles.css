@@ -1,4 +1,22 @@
 /* Reset de estilos básicos */
+/* Estilo para el encabezado con imagen de fondo */
+header {
+  background-image: url('{{ site.baseurl }}/assets/img/img.gis');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 5rem 0; /* Ajusta el tamaño del encabezado según sea necesario */
+  text-align: center;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+}
+
+
 * {
   margin: 0;
   padding: 0;
