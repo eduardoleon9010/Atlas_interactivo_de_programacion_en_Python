@@ -21,10 +21,12 @@ a:hover {
   color: #0056b3;
 }
 
+/* Cabecera */
 header {
   background-color: #007BFF;
   color: white;
   padding: 1rem 0;
+  opacity: 1; /* Asegura que la cabecera no esté transparente */
 }
 
 header .container {
@@ -37,6 +39,8 @@ header .container {
 header h1 a {
   font-size: 2rem;
   font-weight: 700;
+  color: white; /* Asegura que el color del título sea blanco */
+  text-transform: uppercase; /* Para dar un toque más destacado al título */
 }
 
 nav ul {
@@ -46,6 +50,16 @@ nav ul {
 
 nav ul li {
   margin-left: 2rem;
+}
+
+nav ul li a {
+  color: white; /* Asegura que los enlaces sean blancos */
+  font-size: 1rem;
+  text-transform: uppercase; /* Opcional, para un estilo más de libro */
+}
+
+nav ul li a:hover {
+  color: #FFCC00; /* Color al pasar el ratón, puedes ajustarlo */
 }
 
 main.container {
