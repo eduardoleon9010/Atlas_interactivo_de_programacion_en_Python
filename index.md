@@ -30,24 +30,22 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 
 ---
 
----
+📖 **[Conceptos básicos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Conceptos_basicos.md)**  
+  Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
 
-📖 **[Conceptos básicos](Conceptos_basicos.html)**  
-Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
+🗂️ **[Estructuras de datos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Estructuras%20de%20datos.md)**  
+  Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información.
 
-🗂️ **[Estructuras de datos](Estructuras%20de%20datos.html)**  
-Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información.
+🐍 **[Fundamentación a la programación en Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Fundamentacion%20a%20la%20programacion%20en%20Python.md)**  
+  Fortalece tus conocimientos en los principios básicos de la programación con Python.
 
-🐍 **[Fundamentación a la programación en Python](Fundamentacion%20a%20la%20programacion%20en%20Python.html)**  
-Fortalece tus conocimientos en los principios básicos de la programación con Python.
+📊 **[Manejo de datos con Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Manejo%20de%20datos%20con%20Python.md)**  
+  Explora cómo manipular y analizar datos utilizando Python.
 
-📊 **[Manejo de datos con Python](Manejo%20de%20datos%20con%20Python.html)**  
-Explora cómo manipular y analizar datos utilizando Python.
-
-🌐 **[Recogida de datos: APIs y web Scraping](Recogida%20de%20dato%20APIs%20y%20web%20Scraping.html)**  
-Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos.
-
-🚀🐍 **[Proyecto de final: Potencia tus habilidades en Python](Proyecto_final.html)**  
+🌐 **[Recogida de datos: APIs y web Scraping](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Recogida%20de%20dato%20APIs%20y%20web%20Scraping.md)**  
+  Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos.
+  
+🚀🐍 **[Proyecto de final: Potencia tus habilidades en Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Proyecto_final.md)**
 
 ---
 
@@ -55,15 +53,15 @@ Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos.
 
 ### 🙌 Código de conducta
 
-Este proyecto se adhiere a un código de conducta para garantizar un entorno de colaboración positivo. Por favor, revisa el [Código de conducta](Codigo_de_conducta.html) para más detalles.
+Este proyecto se adhiere a un código de conducta para garantizar un entorno de colaboración positivo. Por favor, revisa el [Código de conducta](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Codigo_de_conducta.md) para más detalles.
 
 ### 💡 Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor sigue las pautas de contribución que se encuentran en [Contribuciones.html](Contribuciones.html).
+Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor sigue las pautas de contribución que se encuentran en [Contribuciones.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Contribuciones.md)
 
 ### 🛠️ Cambios
 
-Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [Cambios.html](Cambios.html).
+Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Cambios.md).
 
 ### 📖 Agradecimientos
 
@@ -71,9 +69,8 @@ Agradecemos a todas las personas que han contribuido a este atlas y a los recurs
 
 ### 📞 Contacto
 
-Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto a través del [correo electrónico](mailto:formacionexatech@gmail.com).
+Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto a través del [correo electronico](mailto:formacionexatech@gmail.com).
 
-### 🔗 [Referencias](BIBLIOGRAFIA.html)
+### 🔗 [Referencias](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/BIBLIOGRAFIA.md)
 
-### 📜 [Licencia](Licencia.html)
-
+### 📜 [Licencia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Licencia.md)
