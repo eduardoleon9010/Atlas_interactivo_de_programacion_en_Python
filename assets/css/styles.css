@@ -1,138 +1,101 @@
 
-/* Estilo para la imagen de portada */
-.imagen-portada img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-
-/* Estilo para el encabezado con imagen de fondo */
-header {
-  background-image: url('{{ site.baseurl }}/assets/img/img.gif');
-  background-size: cover;
-  background-position: center;
-  color: white;
-  padding: 5rem 0; /* Ajusta el tamaño del encabezado según sea necesario */
-  text-align: center;
-}
-/* Reset de estilos básicos */
-header .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 2rem;
-}
-
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
+/* Estilos generales */
 body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f4f4f9;
-  color: #333;
-  line-height: 1.6;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
 }
 
-a {
-  text-decoration: none;
-  color: #007BFF;
-}
-
-a:hover {
-  color: #0056b3;
-}
-
-/* Cabecera */
 header {
-  background-color: #007BFF;
+  background-color: #333;
   color: white;
-  padding: 1rem 0;
-  opacity: 1; /* Asegura que la cabecera no esté transparente */
+  padding: 20px 0;
 }
 
 header .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
-header h1 a {
-  font-size: 2rem;
-  font-weight: 700;
-  color: white; /* Asegura que el color del título sea blanco */
-  text-transform: uppercase; /* Para dar un toque más destacado al título */
-}
-
-/* Estilos para el menú principal */
-nav ul {
-  list-style: none;
-  display: flex;
-  padding: 0;
-  margin: 0;
-}
-
-nav ul li {
-  position: relative;
-  margin: 0 20px;
-}
-
-nav ul li a {
-  text-decoration: none;
+h1.logo a {
   color: white;
-  font-size: 1.2rem;
-  font-weight: 500;
-  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav ul.menu {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul.menu li {
+  position: relative;
+}
+
+nav ul.menu li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
   display: block;
 }
 
-/* Estilo para el submenú */
-nav ul li .submenu {
+nav ul.menu li .submenu {
   display: none;
   position: absolute;
   top: 100%;
   left: 0;
-  background-color: #007BFF;
+  background-color: #444;
   padding: 0;
   list-style: none;
-  min-width: 200px;
+  min-width: 250px;
 }
 
-nav ul li:hover .submenu {
+nav ul.menu li:hover .submenu {
   display: block;
 }
 
-nav ul li .submenu li a {
+nav ul.menu li .submenu li a {
   color: white;
   padding: 10px;
-  font-size: 1rem;
 }
 
-nav ul li .submenu li a:hover {
-  background-color: #0056b3;
+nav ul.menu li .submenu li a:hover {
+  background-color: #555;
 }
 
+/* Sección de portada */
+#portada {
+  text-align: center;
+  margin: 20px 0;
+}
 
-main.container {
-  padding: 2rem;
+#portada img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Sección de contenido principal */
+main {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+main section {
+  margin-bottom: 20px;
 }
 
 footer {
-  background-color: #222;
+  background-color: #333;
   color: white;
-  padding: 1rem;
   text-align: center;
-}
-
-footer a {
-  color: #aaa;
-}
-
-footer a:hover {
-  color: white;
+  padding: 10px;
 }
