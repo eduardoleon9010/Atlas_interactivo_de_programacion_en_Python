@@ -30,23 +30,23 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 
 ---
 
-📖 **[Conceptos básicos]({{ site.baseurl }}/conceptos_basicos/)**  
-Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
+📖 **[Conceptos básicos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Conceptos_basicos.md)**  
+  Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
 
-🗂️ **[Estructuras de datos]({{ site.baseurl }}/estructuras_de_datos/)**  
-Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información.
+🗂️ **[Estructuras de datos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Estructuras%20de%20datos.md)**  
+  Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información.
 
-🐍 **[Fundamentación a la programación en Python]({{ site.baseurl }}/fundamentacion_a_la_programacion_en_python/)**  
-Fortalece tus conocimientos en los principios básicos de la programación con Python.
+🐍 **[Fundamentación a la programación en Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Fundamentacion%20a%20la%20programacion%20en%20Python.md)**  
+  Fortalece tus conocimientos en los principios básicos de la programación con Python.
 
-📊 **[Manejo de datos con Python]({{ site.baseurl }}/manejo_de_datos_con_python/)**  
-Explora cómo manipular y analizar datos utilizando Python.
+📊 **[Manejo de datos con Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Manejo%20de%20datos%20con%20Python.md)**  
+  Explora cómo manipular y analizar datos utilizando Python.
 
-🌐 **[Recogida de datos: APIs y web Scraping]({{ site.baseurl }}/recogida_de_datos_apis_y_web_scraping/)**  
-Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos.
+🌐 **[Recogida de datos: APIs y web Scraping](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Recogida%20de%20dato%20APIs%20y%20web%20Scraping.md)**  
+  Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos.
+  
+🚀🐍 **[Proyecto de final: Potencia tus habilidades en Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Proyecto_final.md)**
 
-🚀🐍 **[Proyecto final: Potencia tus habilidades en Python]({{ site.baseurl }}/proyecto_final/)**  
-Refuerza todo lo aprendido con un proyecto práctico final.
 
 ---
 
