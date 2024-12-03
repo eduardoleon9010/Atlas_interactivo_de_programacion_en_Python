@@ -1,4 +1,12 @@
-/* Reset de estilos básicos */
+
+/* Estilo para la imagen de portada */
+.imagen-portada img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
 /* Estilo para el encabezado con imagen de fondo */
 header {
   background-image: url('{{ site.baseurl }}/assets/img/img.gif');
@@ -8,7 +16,7 @@ header {
   padding: 5rem 0; /* Ajusta el tamaño del encabezado según sea necesario */
   text-align: center;
 }
-
+/* Reset de estilos básicos */
 header .container {
   display: flex;
   justify-content: space-between;
