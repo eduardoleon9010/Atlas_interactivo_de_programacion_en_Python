@@ -53,7 +53,7 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 
 ### 🙌 Código de conducta
 
-Este proyecto se adhiere a un código de conducta para garantizar un entorno de colaboración positivo. Por favor, revisa el [Código de conducta](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Codigo_de_conducta.md) para más detalles.
+Este proyecto se adhiere a un código de conducta para garantizar un entorno de colaboración positivo. Por favor, revisa el [Código de conducta](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/codigo_de_conducta.md) para más detalles.
 
 ### 💡 Contribuciones
 
@@ -61,7 +61,7 @@ Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por fa
 
 ### 🛠️ Cambios
 
-Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Cambios.md).
+Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/contribuciones.md).
 
 ### 📖 Agradecimientos
 
@@ -71,6 +71,6 @@ Agradecemos a todas las personas que han contribuido a este atlas y a los recurs
 
 Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto a través del [correo electronico](mailto:formacionexatech@gmail.com).
 
-### 🔗 [Referencias](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/BIBLIOGRAFIA.md)
+### 🔗 [Referencias](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/BIBLIOGRAFIA.md))
 
-### 📜 [Licencia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Licencia.md)
+### 📜 [Licencia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/Licencia.md)
