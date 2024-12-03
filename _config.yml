@@ -3,7 +3,7 @@
 # Información básica del sitio
 title: "Atlas Interactivo de Programación en Python"
 description: "Un libro para aprender Python desde cero"
-baseurl: "" # Si el proyecto está en la raíz del repositorio
+baseurl: "/Atlas_interactivo_de_programacion_en_Python" 
 url: "https://eduardoleon9010.github.io/Atlas_interactivo_de_programacion_en_Python" # Cambia esta URL si necesitas
 
 # Tema de Jekyll (opcional, usa el predeterminado si no configuras otro)
