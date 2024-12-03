@@ -30,8 +30,8 @@ Los notebooks de Google Colab te permitirán realizar estas prácticas de forma 
 
 ---
 
-📖 **[Conceptos básicos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Conceptos_basicos.html)**  
-  Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
+📖 **[Conceptos básicos]({{ site.baseurl }}/conceptos_basicos/)**  
+Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
 
 🗂️ **[Estructuras de datos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Estructuras%20de%20datos.md)**  
   Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información.
