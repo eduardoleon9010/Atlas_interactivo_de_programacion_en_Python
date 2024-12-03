@@ -1,9 +1,3 @@
----
-layout: default
-title: "Conceptos básicos"
-permalink: /conceptos_basicos/
----
-
 # 🚀 ¡Bienvenid@!
 
 Aquí es donde la magia del aprendizaje cobra vida ✨. En este repositorio de GitHub, encontrarás el código fuente completo del notebook asociado a este módulo, diseñado para que lo explores, modifiques y lo hagas tuyo. 👨‍💻👩‍💻
