@@ -1,88 +1,75 @@
-/* Estilos básicos para el diseño */
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f5f5f5;
-}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atlas Interactivo de Programación en Python</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Barra de navegación -->
+  <header>
+    <div class="container">
+      <h1 class="logo">
+        <a href="/">Atlas Interactivo de Programación en Python</a>
+      </h1>
+      <nav>
+        <ul class="menu">
+          <li><a href="#">📖 Conceptos básicos</a>
+            <ul class="submenu">
+              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/conceptos_basicos.md">Inicia tu recorrido aprendiendo los fundamentos esenciales de Python</a></li>
+            </ul>
+          </li>
+          <li><a href="#">🗂️ Estructuras de datos</a>
+            <ul class="submenu">
+              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/estructuras_de_datos.md">Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información</a></li>
+            </ul>
+          </li>
+          <li><a href="#">🐍 Fundamentación a la programación en Python</a>
+            <ul class="submenu">
+              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/fundamentos_de_programacion.md">Fortalece tus conocimientos en los principios básicos de la programación con Python</a></li>
+            </ul>
+          </li>
+          <li><a href="#">📊 Manejo de datos con Python</a>
+            <ul class="submenu">
+              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/manejo_de_datos_con_python.md">Explora cómo manipular y analizar datos utilizando Python</a></li>
+            </ul>
+          </li>
+          <li><a href="#">🌐 Recogida de datos: APIs y web Scraping</a>
+            <ul class="submenu">
+              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/recogida_de_datos_APIs_y_webscraping.md">Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos</a></li>
+            </ul>
+          </li>
+          <li><a href="#">🚀🐍 Proyecto Final</a>
+            <ul class="submenu">
+              <li><a href="https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/proyecto_final.md">Potencia tus habilidades en Python</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-header {
-  background-color: #333;
-  color: white;
-  padding: 20px 0;
-}
+  <!-- Imagen principal de la portada -->
+  <section id="portada">
+    <img src="assets/img/img.png" alt="Portada Atlas de Programación en Python">
+  </section>
 
-.container {
-  width: 80%;
-  margin: 0 auto;
-}
+  <!-- Contenido principal -->
+  <main>
+    <section id="bienvenida">
+      <h2>¡Bienvenido al Atlas Interactivo de Programación en Python!</h2>
+      <p>Este repositorio es un recurso académico pensado para guiarte de manera efectiva en tu aprendizaje de Python, combinando teoría y ejercicios prácticos para una experiencia pedagógica y divertida.</p>
+    </section>
 
-h1 a {
-  text-decoration: none;
-  color: white;
-  font-size: 24px;
-}
+    <!-- Otros secciones como Objetivos, Requisitos, etc. -->
+    <!-- Se mantienen igual -->
+  </main>
 
-nav ul.menu {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-}
+  <footer>
+    <p>Contacto | Licencia</p>
+  </footer>
 
-nav ul.menu > li {
-  position: relative;
-  margin-right: 20px;
-}
-
-nav ul.menu > li > a {
-  color: white;
-  text-decoration: none;
-  font-size: 18px;
-}
-
-nav ul.menu .submenu {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: #444;
-  padding: 10px;
-  border-radius: 4px;
-  min-width: 200px;
-}
-
-nav ul.menu > li:hover .submenu {
-  display: block;
-}
-
-nav ul.menu .submenu li {
-  margin: 5px 0;
-}
-
-nav ul.menu .submenu a {
-  color: white;
-  text-decoration: none;
-  font-size: 16px;
-}
-
-#portada img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-main {
-  padding: 20px;
-}
-
-footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 10px;
-}
-
-footer p {
-  margin: 0;
-}
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
