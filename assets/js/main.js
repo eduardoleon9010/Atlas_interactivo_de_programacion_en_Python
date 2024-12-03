@@ -1,3 +1,32 @@
+document.addEventListener('DOMContentLoaded', function() {
+  const menuItems = document.querySelectorAll('nav ul li');
+
+  menuItems.forEach(item => {
+    item.addEventListener('click', function(event) {
+      const submenu = item.querySelector('.submenu');
+      
+      // Si el submenú está visible, lo ocultamos; si no lo está, lo mostramos
+      if (submenu.style.display === 'block') {
+        submenu.style.display = 'none';
+      } else {
+        submenu.style.display = 'block';
+      }
+      
+      // Evitamos que el clic se propague al resto del documento
+      event.stopPropagation();
+    });
+  });
+
+  // Si se hace clic fuera del menú, ocultamos los submenús
+  document.addEventListener('click', function() {
+    document.querySelectorAll('.submenu').forEach(submenu => {
+      submenu.style.display = 'none';
+    });
+  });
+});
+
+
+
 // Esperar a que el contenido de la página se haya cargado completamente
 document.addEventListener("DOMContentLoaded", function() {
   console.log("¡Bienvenido al Atlas Interactivo de Programación en Python!");
