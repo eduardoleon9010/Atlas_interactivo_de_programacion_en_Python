@@ -1,7 +1,7 @@
 /* Reset de estilos básicos */
 /* Estilo para el encabezado con imagen de fondo */
 header {
-  background-image: url('{{ site.baseurl }}/assets/img/img.gis');
+  background-image: url('{{ site.baseurl }}/assets/img/img.gif');
   background-size: cover;
   background-position: center;
   color: white;
