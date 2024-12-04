@@ -1,12 +1,12 @@
 ___
 # 📚 **Atlas Interactivo de Programación en Python** 🚀
 ___
-## 🌟 **Explora la Zona Interactiva del Atlas Interactivo de Programación en Python**  
-Sumérgete en la **[Zona Interactiva](https://sites.google.com/view/atlasinteractivodeprogramacion/)**, el complemento digital del atlas físico. Este espacio ha sido diseñado para enriquecer tu aprendizaje con contenido organizado, ejercicios prácticos e interactivos, y recursos accesibles. Desde conceptos básicos hasta aplicaciones avanzadas, la Zona Interactiva es tu aliada perfecta para llevar tus habilidades en Python al siguiente nivel. 🚀
 
 ## ✨ **Explora este repositorio del Atlas Interactivo de Programación en Python**  
 Bienvenido al lugar donde la teoría y la práctica se unen. En este repositorio, encontrarás una amplia colección de recursos y cuadernos de práctica diseñados para aplicar los conceptos teóricos del atlas. Con un enfoque académico y pedagógico, este espacio te guiará de manera efectiva en tu aprendizaje de Python, combinando conocimiento técnico y actividades prácticas para una experiencia dinámica y enriquecedora. 🚀
 
+## 🌟 **Explora la Zona Interactiva del Atlas de Programación en Python**  
+Sumérgete en la **[Zona Interactiva](https://sites.google.com/view/atlasinteractivodeprogramacion/)**, el complemento digital del atlas físico. Este espacio ha sido diseñado para enriquecer tu aprendizaje con contenido organizado, ejercicios prácticos e interactivos, y recursos accesibles. Desde conceptos básicos hasta aplicaciones avanzadas, la Zona Interactiva es tu aliada perfecta para llevar tus habilidades en Python al siguiente nivel. 🚀
 
 ## 🌐 Objetivo
 El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprender Python. A través de secciones organizadas por temas, tendrás la oportunidad de poner en práctica tus conocimientos, empezando desde los conceptos básicos hasta temas más avanzados, mientras refuerzas tus habilidades de programación.
@@ -24,32 +24,65 @@ Para comenzar, no necesitas instalar nada en tu máquina. Simplemente accede a l
 
 Algunas secciones del atlas incluyen prácticas sugeridas. Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python.
 
-
 ### 📚 Prácticas sugeridas
 
-Cada sección del atlas incluye prácticas sugeridas que te ayudarán a aplicar lo que has aprendido. Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python. 
-
-Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente:
+Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python. Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente:
 
 ---
+🔗[Primeros pasos](https://colab.research.google.com/drive/1N814avySj1W-XvD9cqiaj3qn9STI4M3N?usp=sharing)
+🔗 [Tipos de datos](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/1236084761029559950#)
+🔗 [Variables y expresiones](https://colab.research.google.com/drive/1xhx923Z1-HXVYiGe1uhWmbi2LUDyD-Wo?usp=sharing)
+🔗 [Cadenas](https://colab.research.google.com/drive/1d7cbmB1FloSP6E23J6LARZ_BOmD2slI3?usp=sharing)
+🔗 [Guía rápida de conceptos basicos](https://colab.research.google.com/drive/1P4ZuQzsCISKW_zIVNOsuIldH98O1jyKu?usp=sharing)
+🔗 [Listas](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/8456962071541287889#)
+🔗 [Tuplas](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/8456962071541287889#)
+🔗 [Guía rápida: Listas y Tuplas](https://drive.google.com/file/d/1ZYdr5L4qfjVaj5XD60j48Gos4nxe9gmy/view?usp=sharing)
+🔗 [Diccionarios](https://colab.research.google.com/drive/1pm0cKTtDTnpCWMTH5ffcL7ofbbF_ndBK?usp=sharing)
+🔗 [Conjuntos](https://colab.research.google.com/drive/1CSg01IlcOejlwz-Zai_eCrpNBtURQ-qB?usp=sharing)
+🔗 [Guía rápida: Diccionarios y Conjuntos](https://drive.google.com/file/d/1zyq06dgpRQE6SnZpl5jvo7lwTP1R3v1s/view?usp=sharing)
+🛤️ [Condiciones y ramificaciones](https://colab.research.google.com/drive/1ujEbjuWJyQJ97pp2zJUljQjOYPqjtLok?usp=sharing)
 
-📖 **[Conceptos básicos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/conceptos_basicos.md)**  
-  Inicia tu recorrido aprendiendo los fundamentos esenciales de Python.
+🔄 [Bucles](https://colab.research.google.com/drive/1NvjrRmykSxqG79QlNk08oackscrCoJe4?usp=sharing)
 
-🗂️ **[Estructuras de datos](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/estructuras_de_datos.md)**  
-  Aprende a manejar listas, tuplas, diccionarios y conjuntos para organizar tu información.
+🔧 [Funciones](https://colab.research.google.com/drive/1Z92_JmvdIJpcllEI2ta-yCuDbSwFr0e-?usp=sharing)
 
-🐍 **[Fundamentación a la programación en Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/fundamentos_de_programacion.md)**  
-  Fortalece tus conocimientos en los principios básicos de la programación con Python.
+⚠️ [Manejo de excepciones](https://colab.research.google.com/drive/1fQFvQDKtKwbmBapneaTr-CLHhA7J9mHT?usp=sharing)
 
-📊 **[Manejo de datos con Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/manejo_de_datos_con_python.md)**  
-  Explora cómo manipular y analizar datos utilizando Python.
+🏛️ [Clases y objetos](https://colab.research.google.com/drive/1sGc71TLPRO4qgmxxJSvoA7aDGaF8Qh5F?usp=sharing)
 
-🌐 **[Recogida de datos: APIs y web Scraping](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/recogida_de_datos_APIs_y_webscraping.md)**  
-  Aprende a extraer datos de la web y de APIs para enriquecer tus proyectos.
-  
-🚀🐍 **[Proyecto de final: Potencia tus habilidades en Python](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/proyecto_final.md)**
+📝 [Análisis de texto](https://colab.research.google.com/drive/1qkfwPgoPL0eUvAYrEqb1Nl--Fo6g-ZWJ?usp=sharing)
 
+🚀 [Guía rápida de fundamentos de programación en Python](https://drive.google.com/file/d/1B_PJ9H2E9yDxNuwgLv5jFsJZHmMBPtl5/view?usp=sharing)
+
+📂 [Lectura de archivos](https://colab.research.google.com/drive/1IWg5MM-p_DP5dn3nU5gr9ne1_GgFEI4U?usp=sharing)
+
+✏️ [Escritura de archivos](https://colab.research.google.com/drive/1TM80345R1DQwTpil5YXFg5QUBfzTlpgQ?usp=sharing)
+
+🔍 [Uso de Pandas](https://colab.research.google.com/drive/1ARQa8UEklbZheFrsNUEgkvUk7mv2tAIs?usp=sharing)
+
+📥 [Carga de datos](https://colab.research.google.com/drive/1YbcKODCOj1Zt_01Sdb1SDvYTiO21RBOz?usp=sharing)
+
+🔢 [Numpy unidimensional](https://colab.research.google.com/drive/1WCsjlxS9gdYjJATDsyhAHEevzMID5jXE?usp=sharing)
+
+🧮 [Numpy bidimensional](https://colab.research.google.com/drive/1zMZ4ss2GuXee_kDLLCQJtKfir2erOwgp?usp=sharing)
+
+🚀 [Guía rápida para principiantes en Numpy](https://drive.google.com/file/d/1y_feSHIvWjBA0nqgXR-fgpnEJd9uw3GT/view?usp=sharing)
+
+📊 [Guía rápida trabajo con datos: Lectura y escritura](https://drive.google.com/file/d/1tQ0iOPI6GM5Vv2qd46zoEDtTx7dbLeMV/view?usp=sharing)
+
+🌐 [Introducción a la API](https://colab.research.google.com/drive/124kHu4nw_22oFsMLD3hUEPzwmqfk1rJF?usp=sharing)
+
+🔍 [Accediendo a API REST](https://colab.research.google.com/drive/1v7IDlnkSX9ubzxCeuDJ6q5E38r6tnOgn?usp=sharing)
+
+📡 [API 1](https://colab.research.google.com/drive/13bcvyO7JpWNPpHOPEzIr46p5J3Kzk5_B?usp=sharing)
+
+🕸️ [Web Scraping](https://colab.research.google.com/drive/1bpwYQRbSMhDo7dfygvnv5QFBAUH9FJtZ?usp=sharing)
+
+📂 [Trabajo con diversidad de archivos](https://colab.research.google.com/drive/1hyYtHCidxkf1QmBj9Hp5g-nC_Qvy-p-e?usp=sharing)
+
+🚀 [Guía rápida de API](https://drive.google.com/file/d/1fQMgx_J38FXaR1_vs1zM4zZ0YH7E7R1Z/view?usp=sharing)
+
+🔥 [Proyecto final](https://colab.research.google.com/drive/1hR-3ZRFAONuI_sQqbCH1oUCXgtefsqjG?usp=sharing)
 ---
 
 🌟 ¡Prepárate para sumergirte en una aventura de aprendizaje interactiva y divertida!
