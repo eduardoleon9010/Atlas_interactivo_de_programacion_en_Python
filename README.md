@@ -30,16 +30,24 @@ Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que 
 
 ---
 🔗[Primeros pasos](https://colab.research.google.com/drive/1N814avySj1W-XvD9cqiaj3qn9STI4M3N?usp=sharing)
+
 🔗 [Tipos de datos](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/1236084761029559950#)
+
 🔗 [Variables y expresiones](https://colab.research.google.com/drive/1xhx923Z1-HXVYiGe1uhWmbi2LUDyD-Wo?usp=sharing)
+
 🔗 [Cadenas](https://colab.research.google.com/drive/1d7cbmB1FloSP6E23J6LARZ_BOmD2slI3?usp=sharing)
+
 🔗 [Guía rápida de conceptos basicos](https://colab.research.google.com/drive/1P4ZuQzsCISKW_zIVNOsuIldH98O1jyKu?usp=sharing)
+
 🔗 [Listas](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/8456962071541287889#)
 🔗 [Tuplas](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/8456962071541287889#)
 🔗 [Guía rápida: Listas y Tuplas](https://drive.google.com/file/d/1ZYdr5L4qfjVaj5XD60j48Gos4nxe9gmy/view?usp=sharing)
 🔗 [Diccionarios](https://colab.research.google.com/drive/1pm0cKTtDTnpCWMTH5ffcL7ofbbF_ndBK?usp=sharing)
+
 🔗 [Conjuntos](https://colab.research.google.com/drive/1CSg01IlcOejlwz-Zai_eCrpNBtURQ-qB?usp=sharing)
+
 🔗 [Guía rápida: Diccionarios y Conjuntos](https://drive.google.com/file/d/1zyq06dgpRQE6SnZpl5jvo7lwTP1R3v1s/view?usp=sharing)
+
 🛤️ [Condiciones y ramificaciones](https://colab.research.google.com/drive/1ujEbjuWJyQJ97pp2zJUljQjOYPqjtLok?usp=sharing)
 
 🔄 [Bucles](https://colab.research.google.com/drive/1NvjrRmykSxqG79QlNk08oackscrCoJe4?usp=sharing)
