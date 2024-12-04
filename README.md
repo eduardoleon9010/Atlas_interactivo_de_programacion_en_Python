@@ -93,7 +93,8 @@ Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que 
 
 🚀 [Guía rápida de API](https://drive.google.com/file/d/1fQMgx_J38FXaR1_vs1zM4zZ0YH7E7R1Z/view?usp=sharing)
 
-🔥 [Proyecto final](https://colab.research.google.com/drive/1hR-3ZRFAONuI_sQqbCH1oUCXgtefsqjG?usp=sharing)
+🔥 **[Proyecto final](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/proyecto_final.md)**
+
 ---
 
 🌟 ¡Prepárate para sumergirte en una aventura de aprendizaje interactiva y divertida!
