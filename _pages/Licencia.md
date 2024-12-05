@@ -1,9 +1,15 @@
-## 📄 Licencia
+## 📄 Licencia MIT
 
-Este trabajo está licenciado bajo la [Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Esto significa que puedes compartir y adaptar este material, siempre y cuando se te atribuya de manera adecuada.
+Copyright (c) 2024 David Eduardo León
 
-**Cómo citar:**
+Por la presente, se otorga permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones, incluidos, entre otros, los derechos de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a quienes se les proporcione el Software hacerlo, sujeto a las siguientes condiciones:
 
-Si utilizas este atlas, por favor cita la fuente de la siguiente manera:
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-*Leon, E. (2024). Título del Atlas Interactivo de Programación en Python. Editorial (si aplica). ISBN (si aplica).*
+**EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.**
+
+---
+
+Para citar este repositorio de acuerdo con los estándares académicos (APA 7), utiliza el siguiente formato:
+
+**León, D.E. (2024). *Atlas Interactivo de Programación en Python*. Disponible en [GitHub](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/README.md).**
