@@ -8,7 +8,8 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 **EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.**
 
-Los textos explicativos asociados están bajo la [licencia CC BY-NC-ND 4.0](Licencias Creative Commons), aplicable solo para usos educativos y no comerciales
+Los textos explicativos asociados están bajo la [licencia CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/
+)), aplicable solo para usos educativos y no comerciales
 ---
 
 Para citar este repositorio de acuerdo con los estándares académicos (APA 7), utiliza el siguiente formato:
