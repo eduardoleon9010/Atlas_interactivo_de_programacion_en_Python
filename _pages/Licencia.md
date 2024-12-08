@@ -12,7 +12,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 Para citar este repositorio de acuerdo con los estándares académicos (APA 7), utiliza el siguiente formato:
 
-**León, D.E. (2024). *Atlas Interactivo de Programación en Python: Una guia para la era digital*. Disponible en [GitHub](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/README.md).**
+**León, D.E. (2024). *Atlas Interactivo de Programación en Python: Una guia practica para la era digital*. Disponible en [GitHub](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/README.md).**
 
 
 Los textos explicativos asociados están bajo la [licencia CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/), aplicable solo para usos educativos y no comerciales
