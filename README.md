@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="imagenes/61c51a2c-1af9-4b0e-84fc-700ffe5b890c.png![Uploading PRES.png…]()
+" alt="" width="400"/>
+</p>
+
 ___
 # 📚 **Atlas Interactivo de Programación en Python: Una guia para la era digita** 🚀
 ___
