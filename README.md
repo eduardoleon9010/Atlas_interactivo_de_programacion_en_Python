@@ -1,10 +1,12 @@
 <p align="center">
   <img src="_pages/imagenes/portada.png" alt="Atlas Interactivo de Programación" width="300"/>
-  ___
-# 📚 **Atlas Interactivo de Programación en Python: Una guia para la era digita** 🚀
-___
 </p>
 
+<p align="center">
+  <strong style="font-size:30px;">📚 Atlas Interactivo de Programación en Python: Una guía para la era digital 🚀</strong>
+</p>
+
+___
 
 ## ✨ **Explora este repositorio del Atlas**  
 Bienvenido al lugar donde la teoría y la práctica se unen. En este repositorio, encontrarás una amplia colección de recursos y cuadernos de práctica diseñados para aplicar los conceptos teóricos del atlas. Con un enfoque académico y pedagógico, este espacio te guiará de manera efectiva en tu aprendizaje de Python, combinando conocimiento técnico y actividades prácticas para una experiencia dinámica y enriquecedora. 🚀
