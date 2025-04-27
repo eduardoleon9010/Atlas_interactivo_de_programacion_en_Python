@@ -1,11 +1,6 @@
 <p align="center">
   <img src="_pages/imagenes/portada.png" alt="Atlas Interactivo de Programación" width="300"/>
 </p>
-
-<p align="center">
-  <strong style="font-size:30px;">📚 Atlas Interactivo de Programación en Python: Una guía para la era digital 🚀</strong>
-</p>
-
 ___
 
 ## ✨ **Explora este repositorio del Atlas**  
