@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="imagenes/61c51a2c-1af9-4b0e-84fc-700ffe5b890c.png" alt="Atlas Interactivo de Programación" width="300"/>
+  <img src="_pages/imagenes/portada.png" alt="Atlas Interactivo de Programación" width="300"/>
 </p>
+
 
 ___
 # 📚 **Atlas Interactivo de Programación en Python: Una guia para la era digita** 🚀
