@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="_pages/imagenes/portada.png" alt="Atlas Interactivo de Programación" width="300"/>
+  <img src="img/Atlas Interactivo.jpg" alt="Atlas Interactivo de Programación en Python" width="300"/>
 </p>
 
 ## **Explora este repositorio del Atlas**  
@@ -11,7 +11,7 @@ Sumérgete en la **[Zona Interactiva](https://sites.google.com/view/atlasinterac
 ## Objetivo
 El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprender Python. A través de secciones organizadas por temas, tendrás la oportunidad de poner en práctica tus conocimientos, empezando desde los conceptos básicos hasta temas más avanzados, mientras refuerzas tus habilidades de programación.
 
-### 🖥Requisitos del sistema
+### Requisitos del sistema
 
 - Acceso a Internet para utilizar Google Colab.
 - Un navegador web moderno (Chrome, Firefox, etc.) para ejecutar los notebooks.
@@ -95,30 +95,37 @@ Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que 
 
  **[Proyecto final](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/proyecto_final.md)**
 
----
+
 
  ¡Prepárate para sumergirte en una aventura de aprendizaje interactiva y divertida!
 
-###  Código de conducta
+**Código de conducta**
 
 Este proyecto se adhiere a un código de conducta para garantizar un entorno de colaboración positivo. Por favor, revisa el [Código de conducta](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/codigo_de_conducta.md) para más detalles.
 
-###  Contribuciones
+
+**Contribuciones**
 
 Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, por favor sigue las pautas de contribución que se encuentran en [Contribuciones.md](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/Contribuciones.md)
 
-###  Cambios
+
+**Cambios**
 
 Para ver los cambios realizados en este proyecto, revisa el historial de cambios en [CHANGELOG](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/contribuciones.md).
 
-###  Agradecimientos
+
+
+**Agradecimientos**
 
 Agradecemos a todas las personas que han contribuido a este atlas y a los recursos utilizados para su creación. Su apoyo es invaluable.
 
-###  Contacto
+
+**Contacto**
 
 Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto a través del [correo electronico](mailto:formacionexatech@gmail.com).
 
-###  [Bibliografia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/BIBLIOGRAFIA.md)
 
-###  [Licencia](https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/Licencia.md)
+**[Bibliografia]**(https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/BIBLIOGRAFIA.md)
+
+
+**[Licencia]**(https://github.com/eduardoleon9010/Atlas_interactivo_de_programacion_en_Python/blob/main/_pages/Licencia.md)
