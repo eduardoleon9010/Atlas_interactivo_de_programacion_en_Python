@@ -4,7 +4,7 @@
 
 
 **Explora este repositorio del Atlas**  
-Bienvenido al lugar donde la teoría y la práctica se unen. En este repositorio, encontrarás una amplia colección de recursos y cuadernos de práctica diseñados para aplicar los conceptos teóricos del atlas. Con un enfoque académico y pedagógico, este espacio te guiará de manera efectiva en tu aprendizaje de Python, combinando conocimiento técnico y actividades prácticas para una experiencia dinámica y enriquecedora. 🚀
+Bienvenido al lugar donde la teoría y la práctica se unen. En este repositorio, encontrarás una amplia colección de recursos y cuadernos de práctica diseñados para aplicar los conceptos teóricos del atlas. Con un enfoque académico y pedagógico, este espacio te guiará de manera efectiva en tu aprendizaje de Python, combinando conocimiento técnico y actividades prácticas para una experiencia dinámica y enriquecedora. 
 
 
 **Explora la Zona Interactiva del Atlas de Programación en Python**  
