@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="img/Atlas Interactivo.jpg" alt="Atlas Interactivo de Programación en Python" width="300"/>
+  <img src="img/PortadaPub-a.jpg" alt="Atlas Interactivo de Programación en Python" width="300"/>
 </p>
 
-## **Explora este repositorio del Atlas**  
+
+**Explora este repositorio del Atlas**  
 Bienvenido al lugar donde la teoría y la práctica se unen. En este repositorio, encontrarás una amplia colección de recursos y cuadernos de práctica diseñados para aplicar los conceptos teóricos del atlas. Con un enfoque académico y pedagógico, este espacio te guiará de manera efectiva en tu aprendizaje de Python, combinando conocimiento técnico y actividades prácticas para una experiencia dinámica y enriquecedora. 🚀
 
-## **Explora la Zona Interactiva del Atlas de Programación en Python**  
+
+**Explora la Zona Interactiva del Atlas de Programación en Python**  
 Sumérgete en la **[Zona Interactiva](https://sites.google.com/view/atlasinteractivodeprogramacion/)**, el complemento digital del atlas físico. Este espacio ha sido diseñado para enriquecer tu aprendizaje con contenido organizado, ejercicios prácticos e interactivos, y recursos accesibles. Desde conceptos básicos hasta aplicaciones avanzadas, la Zona Interactiva es tu aliada perfecta para llevar tus habilidades en Python al siguiente nivel. 
 
-## Objetivo
+
+ Objetivo
 El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprender Python. A través de secciones organizadas por temas, tendrás la oportunidad de poner en práctica tus conocimientos, empezando desde los conceptos básicos hasta temas más avanzados, mientras refuerzas tus habilidades de programación.
 
 ### Requisitos del sistema
@@ -16,19 +19,22 @@ El objetivo del Atlas es ofrecerte un enfoque práctico y accesible para aprende
 - Acceso a Internet para utilizar Google Colab.
 - Un navegador web moderno (Chrome, Firefox, etc.) para ejecutar los notebooks.
 
-### Instalación
+
+**Instalación**
 
 Para comenzar, no necesitas instalar nada en tu máquina. Simplemente accede a los notebooks a través de Google Colab. 
 
-###  Uso
+
+**Uso**
 
 Algunas secciones del atlas incluyen prácticas sugeridas. Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python.
 
-### Prácticas sugeridas
+
+**Prácticas sugeridas**
 
 Al trabajar en estas actividades, no solo reforzarás tus habilidades, sino que también ganarás confianza en tu capacidad para programar en Python. Los notebooks de Google Colab te permitirán realizar estas prácticas de forma interactiva y en la nube, ¡sin complicaciones! A continuación, encontrarás las prácticas por sección, donde podrás acceder a cada notebook correspondiente:
 
----
+
 🔗[Primeros pasos](https://colab.research.google.com/drive/1N814avySj1W-XvD9cqiaj3qn9STI4M3N?usp=sharing)
 
 🔗 [Tipos de datos](https://www.blogger.com/u/1/blog/page/edit/8657873398036118919/1236084761029559950#)
