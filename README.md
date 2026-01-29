@@ -18,22 +18,11 @@
  ✅ Contenido visual e interactivo  
  ✅ Basado en Python 3.10+ 
 
-
-## 🏆 Proyecto Final e Insignia Digital
+### 🏆 Insignia Digital
 
 El **Proyecto Final del Atlas Interactivo de Programación en Python** tiene como objetivo consolidar, integrar y aplicar de forma práctica los conocimientos adquiridos a lo largo de todo el atlas. Este desafío propone la resolución de un problema real, permitiendo demostrar habilidades técnicas, capacidad de análisis y pensamiento crítico mediante el uso del lenguaje Python.
 
 A lo largo del proyecto, el aprendiz pondrá en práctica la manipulación de datos, el análisis eficiente de información y la construcción de soluciones estructuradas, aplicando buenas prácticas de programación y organización del código.
-
-### 🎯 Objetivos del Proyecto Final
-
-Al completar este proyecto, el aprendiz será capaz de:
-
-- Aplicar de manera integrada los conceptos fundamentales y avanzados de Python.
-- Manipular y analizar datos para extraer información relevante.
-- Diseñar soluciones estructuradas y eficientes.
-- Desarrollar habilidades de análisis y resolución de problemas.
-- Demostrar autonomía, pensamiento crítico y capacidad de integrar múltiples herramientas.
 
 ---
 
@@ -47,7 +36,8 @@ Esta insignia puede incluirse en repositorios personales, portafolios profesiona
 
 
 
-![Python Badge](https://img.shields.io/badge/Python-Programación-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Atlas%20Python-Proyecto%20Final-0a192f?style=for-the-badge&logo=python&logoColor=ffd43b)
+
 
 
 
