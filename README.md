@@ -31,7 +31,11 @@ Al superar exitosamente el Proyecto final, el aprendiz podrá obtener una
 Esta insignia puede incluirse en repositorios personales, portafolios profesionales o proyectos públicos como muestra del aprendizaje y las competencias adquiridas.
 
 
-![Python Badge](https://img.shields.io/badge/Python-Programación-blue?style=for-the-badge&logo=python&logoColor=white)
+🎓 **Certificación verificable**
+
+Al completar el Proyecto Final podrás obtener una insignia digital verificable:
+
+[![Atlas Python Certified](https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python.svg)](https://github.com/eduardoleon9010/atlas-python-insignias)
 
 
  <h4 align="center"> ¡Descarga tu Atlas GRATIS! </h4>
