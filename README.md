@@ -12,21 +12,18 @@
 
 ## ¿Qué obtendrás?
 
- ✅ Aprende Python desde lo básico hasta nivel avanzado  
+ ✅ Aprende los fundamentos de Python 
  ✅ Ejercicios prácticos con soluciones detalladas  
  ✅ Proyectos reales para tu portafolio  
  ✅ Contenido visual e interactivo  
- ✅ Basado en Python 3.10+ 
-
-### 🏆 Insignia Digital
+ ✅ **Insignia digital**
 
 El **Proyecto Final del Atlas Interactivo de Programación en Python** tiene como objetivo consolidar, integrar y aplicar de forma práctica los conocimientos adquiridos a lo largo de todo el atlas. Este desafío propone la resolución de un problema real, permitiendo demostrar habilidades técnicas, capacidad de análisis y pensamiento crítico mediante el uso del lenguaje Python.
 
 A lo largo del proyecto, el aprendiz pondrá en práctica la manipulación de datos, el análisis eficiente de información y la construcción de soluciones estructuradas, aplicando buenas prácticas de programación y organización del código.
 
----
 
-## 🥇 Insignia Digital de Programación en Python
+**Insignia digital de Programación en Python**
 
 Al superar exitosamente el Proyecto final, el aprendiz podrá obtener una  
 **Insignia Digital de Programación en Python**, emitida como reconocimiento académico y pensada para ser publicada en GitHub como evidencia verificable del logro alcanzado.
