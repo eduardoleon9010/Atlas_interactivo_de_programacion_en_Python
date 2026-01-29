@@ -37,16 +37,6 @@ Esta insignia puede incluirse en repositorios personales, portafolios profesiona
 ![Python Badge](https://img.shields.io/badge/Python-Programación-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
-![Python Badge](https://img.shields.io/badge/Python-Programación-blue?style=for-the-badge&logo=python&logoColor=white)
-
-
-![Python Badge](https://img.shields.io/badge/Atlas%20Python-Proyecto%20Final-0a192f?style=for-the-badge&logo=python&logoColor=ffd43b)
-
-![Python Badge](https://img.shields.io/badge/Python-Certified%20Project-success?style=for-the-badge&logo=python&logoColor=white)
-
-![Python Badge](https://img.shields.io/badge/Programming-Python%20Mastery-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-
-
  <h4 align="center"> ¡Descarga tu Atlas GRATIS! </h4>
 
 
