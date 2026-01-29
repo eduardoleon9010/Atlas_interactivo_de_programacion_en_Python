@@ -34,6 +34,7 @@ Al superar exitosamente el Proyecto final, el aprendiz podrá obtener una
 Esta insignia puede incluirse en repositorios personales, portafolios profesionales o proyectos públicos como muestra del aprendizaje y las competencias adquiridas.
 
 
+![Python Badge](https://img.shields.io/badge/Python-Programación-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
 ![Python Badge](https://img.shields.io/badge/Atlas%20Python-Proyecto%20Final-0a192f?style=for-the-badge&logo=python&logoColor=ffd43b)
