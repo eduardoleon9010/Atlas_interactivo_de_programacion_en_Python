@@ -12,31 +12,19 @@
 
 ## ¿Qué obtendrás?
 
- ✅ Aprende los fundamentos de Python 
- ✅ Ejercicios prácticos con soluciones detalladas  
- ✅ Proyectos reales para tu portafolio  
- ✅ Contenido visual e interactivo  
- ✅ **Insignia digital**
+✅ Aprende los fundamentos de Python, desde los conceptos básicos hasta su aplicación práctica  
+✅ Ejercicios prácticos con soluciones detalladas  
+✅ Proyectos reales orientados a la construcción de portafolio  
+✅ Contenido visual e interactivo para facilitar el aprendizaje  
+✅ **Insignia digital verificable al completar el proyecto final**
 
-El **Proyecto Final del Atlas Interactivo de Programación en Python** tiene como objetivo consolidar, integrar y aplicar de forma práctica los conocimientos adquiridos a lo largo de todo el atlas. Este desafío propone la resolución de un problema real, permitiendo demostrar habilidades técnicas, capacidad de análisis y pensamiento crítico mediante el uso del lenguaje Python.
-
-A lo largo del proyecto, el aprendiz pondrá en práctica la manipulación de datos, el análisis eficiente de información y la construcción de soluciones estructuradas, aplicando buenas prácticas de programación y organización del código.
-
-
-**Insignia digital de Programación en Python**
-
-Al superar exitosamente el Proyecto final, el aprendiz podrá obtener una  
-**Insignia Digital de Programación en Python**, emitida como reconocimiento académico y pensada para ser publicada en GitHub como evidencia verificable del logro alcanzado.
-
-Esta insignia puede incluirse en repositorios personales, portafolios profesionales o proyectos públicos como muestra del aprendizaje y las competencias adquiridas.
-
-
-🎓 **Certificación verificable**
-
-Al completar el Proyecto Final podrás obtener una insignia digital verificable:
+**Insignia digital verificable**
+Al completar el **Proyecto Final del Atlas Interactivo de Programación en Python**,  
+los aprendices podrán obtener una **insignia digital verificable**, emitida
+oficialmente por el Atlas y registrada públicamente en GitHub.
 
 <p align="center">
-  <a href="https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md">
+  <a href="https://github.com/eduardoleon9010/atlas-python-insignias">
     <img
       src="https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python-proyecto-final.svg"
       alt="Insignia verificable – Proyecto Final Python"
@@ -50,24 +38,21 @@ Al completar el Proyecto Final podrás obtener una insignia digital verificable:
   Atlas Interactivo de Programación en Python
 </p>
 
+ **Verificación**
 
+Cada insignia:
+- Cuenta con un **registro individual por aprendiz**
+- Incluye nombre, fecha y descripción del logro
+- Puede ser **auditada públicamente** mediante el historial de GitHub
 
- <h4 align="center"> ¡Descarga tu Atlas GRATIS! </h4>
-
-
-<p align="center">
-  <a href="https://nexatech.org/web/landing/landing-atlas.html" target="_blank">
-    <img src="https://img.shields.io/badge/%20Obtener%20Atlas%20📥-28a745?style=for-the-badge&logo=python&logoColor=white" alt="Descargar Atlas">
-  </a>
-</p>
+🔗 Repositorio oficial de insignias:  
+https://github.com/eduardoleon9010/atlas-python-insignias
 
 
 
 ## ¿Por qué este Atlas es diferente?
 
- ✅ Diseñado para autodidactas  | ✅ Ejemplos claros y directos  | ✅ Comunidad activa 
-
-
+ ✅ Diseñado para autodidactas  | ✅ Ejemplos claros y aplicables  | ✅ Comunidad activa y aprendizaje colaborativo 
 
 
 
