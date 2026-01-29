@@ -19,6 +19,8 @@
 ✅ **Insignia digital verificable al completar el proyecto final**
 
 **Insignia digital verificable**
+
+
 Al completar el **Proyecto Final del Atlas Interactivo de Programación en Python**,  
 los aprendices podrán obtener una **insignia digital verificable**, emitida
 oficialmente por el Atlas y registrada públicamente en GitHub.
