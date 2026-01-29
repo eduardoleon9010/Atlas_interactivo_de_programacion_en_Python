@@ -26,18 +26,18 @@ los aprendices podrán obtener una **insignia digital verificable**, emitida
 oficialmente por el Atlas y registrada públicamente en GitHub.
 
 <p align="center">
-  <a href="https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md">
+  <a href="https://github.com/eduardoleon9010/atlas-python-insignias/tree/main">
     <img
       src="https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python-base.png"
-      alt="Insignia verificable – Atlas Python · Proyecto Final"
+      alt="Atlas Python – Repositorio de Insignias"
       width="260"
     />
   </a>
 </p>
 
 <p align="center">
-  <strong>Insignia verificable · Proyecto Final</strong><br>
-  Atlas Interactivo de Programación en Python
+  <strong>Atlas Python · Sistema de Insignias</strong><br>
+  Repositorio oficial y verificable
 </p>
 
 
