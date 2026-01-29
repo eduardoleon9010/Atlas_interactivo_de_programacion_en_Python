@@ -35,7 +35,21 @@ Esta insignia puede incluirse en repositorios personales, portafolios profesiona
 
 Al completar el Proyecto Final podrás obtener una insignia digital verificable:
 
-[![Atlas Python Certified](https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python.svg)](https://github.com/eduardoleon9010/atlas-python-insignias)
+<p align="center">
+  <a href="https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md">
+    <img
+      src="https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python-proyecto-final.svg"
+      alt="Insignia verificable – Proyecto Final Python"
+      width="260"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Insignia verificable · Proyecto Final</strong><br>
+  Atlas Interactivo de Programación en Python
+</p>
+
 
 
  <h4 align="center"> ¡Descarga tu Atlas GRATIS! </h4>
