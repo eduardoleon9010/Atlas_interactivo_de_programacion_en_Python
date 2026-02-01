@@ -76,7 +76,8 @@ Cada insignia:
 
 <p align="center">
   ¿Tienes dudas? Escríbenos a:<br>
-  📧 <strong>formacionexatech@gmail.com</strong>
+  📧 <strong>atlasinteractivodeprogramacion@gmail.com
+</strong>
 </p>
 
 
