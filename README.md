@@ -48,9 +48,6 @@ Cada insignia:
 - Incluye nombre, fecha y descripción del logro
 - Puede ser **auditada públicamente** mediante el historial de GitHub
 
-🔗 Repositorio oficial de insignias:  
-https://github.com/eduardoleon9010/atlas-python-insignias
-
 
 
 ## ¿Por qué este Atlas es diferente?
