@@ -4,7 +4,7 @@
   <img src="img/Atlas Interactivo.jpg" alt="Vista previa del Atlas" width="600"/>
 </p>
 
-<p align="center">Aprende Python desde cero hasta avanzado con nuestra guía interactiva GRATUITA</strong><br>
+<p align="center">Aprende Python desde cero con nuestra guía interactiva GRATUITA</strong><br>
   <em>13 secciones, ejercicios prácticos, proyectos reales y contenido actualizado.</em>
 </p>
 
@@ -63,6 +63,13 @@ https://github.com/eduardoleon9010/atlas-python-insignias
 
 <p align="center">
   <img src="img/caratulaL.jpeg" alt="Vista previa del Atlas" width="600"/>
+</p>
+
+
+<p align="center">
+  <a href="https://nexatech.org/web/landing/landing-atlas.html" target="_blank">
+    <img src="https://img.shields.io/badge/📘%20Quiero%20mi%20Atlas-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Quiero mi Atlas">
+  </a>
 </p>
 
 
