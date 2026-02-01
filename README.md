@@ -74,27 +74,6 @@ https://github.com/eduardoleon9010/atlas-python-insignias
 
 
 
-**Política de privacidad y Terminos y condiciones**
-
-<p align="center">
-  <a href="https://nexatech.org/politicas.html" target="_blank">
-    <img src="https://img.shields.io/badge/%20Ver%20Política%20de%20Privacidad-0078D7?style=for-the-badge" alt="Política de Privacidad">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://nexatech.org/terminosycondiciones.html" target="_blank">
-    <img
-      src="https://img.shields.io/badge/T%C3%A9rminos%20y%20Condiciones-0078D7?style=for-the-badge"
-      alt="Términos y Condiciones"
-    >
-  </a>
-</p>
-
-
-
-
 
 **Contacto**
 
