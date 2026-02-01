@@ -59,7 +59,7 @@ Cada insignia:
 **Vista previa**
 
 <p align="center">
-  <img src="img/caratulaL.jpeg" alt="Vista previa del Atlas" width="600"/>
+  <img src="img/1. atl.png" alt="Vista previa del Atlas" width="300"/>
 </p>
 
 
