@@ -64,7 +64,7 @@ Cada insignia:
 
 
 <p align="center">
-  <a href="https://nexatech.org/web/landing/landing-atlas.html" target="_blank">
+  <a href="https://nexatech.org/atlas/interactivo.html" target="_blank">
     <img src="https://img.shields.io/badge/📘%20Quiero%20mi%20Atlas-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Quiero mi Atlas">
   </a>
 </p>
